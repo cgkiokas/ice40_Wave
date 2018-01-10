@@ -1,0 +1,31 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd" 
+MESSAGE "Compile Entity "dds_sine"" 
+MESSAGE "Compile Architecture "rtl" of Entity "dds_sine"" 
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 
+MESSAGE "Compile Entity "FunctionGen_pll"" 
+MESSAGE "Compile Architecture "BEHAVIOR" of Entity "FunctionGen_pll"" 
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd" 
+MESSAGE "Compile Entity "spi_master"" 
+MESSAGE "Compile Architecture "behave" of Entity "spi_master"" 
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" 
+MESSAGE "Compile Entity "FunctionGen"" 
+MESSAGE "Compile Architecture "behave" of Entity "FunctionGen"" 
+MESSAGE "Incorrect order of units detected." 
+MESSAGE "Automatic reorder and incremental recompilation of required units in progress." 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => FunctionGen" 
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 
+MESSAGE "Compile Architecture "BEHAVIOR" of Entity "FunctionGen_pll"" 
+WARNING ELAB1_0026: "There is no default binding for component "SB_PLL40_CORE". (No entity named "SB_PLL40_CORE" was found)." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 55 0
+ERROR COMP96_0207: "No actual specified for local port "EXTFEEDBACK"." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 75 11
+ERROR COMP96_0207: "No actual specified for local port "DYNAMICDELAY"." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 76 11
+ERROR COMP96_0207: "No actual specified for local port "LATCHINPUTVALUE"." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 79 11
+ERROR COMP96_0207: "No actual specified for local port "SDI"." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 81 11
+ERROR COMP96_0207: "No actual specified for local port "SCLK"." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" 83 11
+MESSAGE "File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" 
+MESSAGE "Compile Architecture "behave" of Entity "FunctionGen"" 
+ERROR ELAB1_0028: "Entity port length is 12. o_sine length is 10." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" 88 0
+ERROR COMP96_0367: "Improper array length (12). Expected length is 10." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" 96 27
+ERROR COMP96_0367: "Improper array length (16). Expected length is 12." "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" 110 30
+FAILURE "Compile failure 8 Errors 1 Warnings  Analysis time :  1.0 [s]" 

@@ -1,0 +1,64 @@
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":5:7:5:17|Synthesizing work.functiongen.behave.
+@W: CD638 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":36:11:36:22|Signal dac_cmd_bits is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":55:11:55:22|Signal w_sync_reset is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":59:8:59:12|Signal w_fcw is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":60:8:60:20|Signal w_start_phase is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":6:7:6:16|Synthesizing work.spi_master.behave.
+@N: CD233 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":39:30:39:31|Using sequential encoding for type spi_controller_state
+Post processing for work.spi_master.behave
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":7:7:7:14|Synthesizing work.dds_sine.rtl.
+Post processing for work.dds_sine.rtl
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\Async_FIFO.vhd":6:7:6:16|Synthesizing work.async_fifo.behave.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":5:7:5:24|Synthesizing work.true_dual_port_ram.behave.
+Post processing for work.true_dual_port_ram.behave
+@N: CL134 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":30:8:30:10|Found RAM mem, depth=2048, width=16
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\grey_counter.vhd":5:7:5:18|Synthesizing work.gray_counter.behave.
+Post processing for work.gray_counter.behave
+Post processing for work.async_fifo.behave
+@W: CL117 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\Async_FIFO.vhd":68:4:68:5|Latch generated from process for signal quadrant_status; possible missing assignment in an if or case statement.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":4:7:4:21|Synthesizing work.functiongen_pll.behavior.
+@W: CD280 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":16:10:16:25|Unbound component SB_PLL40_2F_CORE mapped to black box
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":16:10:16:25|Synthesizing work.sb_pll40_2f_core.syn_black_box.
+Post processing for work.sb_pll40_2f_core.syn_black_box
+Post processing for work.functiongen_pll.behavior
+@W: CL167 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Input extfeedback of instance FunctionGen_pll_inst is floating
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 0 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 1 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 2 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 3 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 4 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 5 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 6 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL245 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Bit 7 of input dynamicdelay of instance FunctionGen_pll_inst is undriven. If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@W: CL167 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Input latchinputvalue of instance FunctionGen_pll_inst is floating
+@W: CL167 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Input sdi of instance FunctionGen_pll_inst is floating
+@W: CL167 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":61:0:61:19|Input sclk of instance FunctionGen_pll_inst is floating
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":7:7:7:15|Synthesizing work.spi_slave.behave.
+@N: CD233 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":38:17:38:18|Using sequential encoding for type t_sm_rx
+@W: CD604 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":131:16:131:29|OTHERS clause is not synthesized 
+@W: CD638 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":55:11:55:20|Signal tx_sending is undriven. Either assign the signal a value or remove the signal declaration.
+Post processing for work.spi_slave.behave
+Post processing for work.functiongen.behave
+@W: CL168 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":151:8:151:21|Pruning instance spi_slave_inst -- not in use ... 
+@N: CL201 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":103:8:103:9|Trying to extract state machine for register SM_RX.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":19:5:19:8|Input b_rd is unused.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":68:85:68:85|Register bit lut_value(11) is always 0.
+@W: CL260 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":68:85:68:85|Pruning register bit 11 of lut_value(11 downto 0). If this is not the intended behavior, drive the input with valid values, or an input from the top level.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":101:3:101:4|Register bit o_sine(11) is always 0.
+@W: CL260 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":101:3:101:4|Pruning register bit 11 of o_sine(11 downto 0). If this is not the intended behavior, drive the input with valid values, or an input from the top level.
+@W: CL190 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":64:8:64:9|Optimizing register bit clock_counter(1) to a constant 0. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: CL260 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":64:8:64:9|Pruning register bit 1 of clock_counter(1 downto 0). If this is not the intended behavior, drive the input with valid values, or an input from the top level.
+@N: CL201 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":55:8:55:9|Trying to extract state machine for register st_current.
+Extracted state machine for register st_current
+State machine has 3 reachable states with original encodings of:
+   00
+   01
+   10
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(12) is always 1.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(13) is always 1.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(14) is always 0.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(15) is always 0.
+@W: CL279 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Pruning register bits 15 to 12 of fifo_wr_data(15 downto 0). If this is not the intended behavior, drive the inputs with valid values, or inputs from the top level.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":18:15:18:23|Input i_sclk_in is unused.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":19:15:19:23|Input i_mosi_in is unused.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":20:15:20:21|Input i_ss_in is unused.

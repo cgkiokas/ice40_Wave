@@ -1,0 +1,14 @@
+[Version]
+Version=10.2
+[Designs]
+FuncGen=FuncGen.adf
+[Settings]
+Active=FuncGen
+[Expand]
+funcgen=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

@@ -1,0 +1,5 @@
+INPUT  w_rstb 	 location (5, 0, 1) 	 48 	 
+OUTPUT w_mosi 	 location (5, 0, 0) 	 47 	 
+INPUT  r_Clock 	 location (0, 8, 1) 	 21 	 
+OUTPUT w_ss 	 location (4, 0, 1) 	 45 	 
+OUTPUT w_sclk 	 location (4, 0, 0) 	 44 	 

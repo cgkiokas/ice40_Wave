@@ -1,0 +1,3 @@
+CKID0001:@|S:FunctionGen_pll_inst.FunctionGen_pll_inst@|E:fifo_wr_data[10]@|F:@syn_sample_clock_path==CKID0001@|M:ClockId0001 
+CKID0002:@|S:FunctionGen_pll_inst.FunctionGen_pll_inst@|E:r_Data_to_DAC[10]@|F:@syn_sample_clock_path1==CKID0002@|M:ClockId0002 
+CKID0003:@|S:dds_clk@|E:async_fifo_inst.tdp_ram_inst.mem_mem_0_6@|F:@syn_sample_clock_path==CKID0003@|M:ClockId0003 

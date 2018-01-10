@@ -1,0 +1,36 @@
+timestamp=1498398478932
+
+[~A]
+ModifyID=1
+Version=73
+
+[dds_sine]
+A/rtl=21|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|18|1*0
+BinI32/rtl=3*0
+I=0*1477
+I/rtl=0*4188
+M=11|0|vc6|1498398478499|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|0*894*0x62bd8914c1608e8d3f5ffea4ecdb62bda7f7250c|0*1350*0x5eebbfaf24833dd780412b1f91e05209
+M/rtl=21|0|vc6|1498398478505|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|0*1700*0xa4ac6d711e85beec2aee8192e12d14fb8b4e7832|0*4054*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|7
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|88db58d0e4a3d360ec74b284359a7c35eaf190bca5f7b29ee504cb730d4c63ebe5f25f770183aaefcdd8b1f758da6922
+Version/rtl=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|9dbb47eebe7da777b751efca131652c58931610a4a7d1d6ac069875c3f706472
+
+[functiongen]
+A/behave=21|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|8|1*3375
+BinI32/behave=3*2259
+I=0*488
+I/behave=0*5277
+M=11|0|vc6|1498398478460|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|0*128*0xc3dcbddefe437b299e148015598a3360768ff8f8|0*363*0x5eebbfaf24833dd780412b1f91e05209
+M/behave=21|0|vc6|1498398478885|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|0*4415*0xf53f8a4253dbb8128a68d819ec0ba7e16d610c42|0*5142*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|5
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|c7cbe9e551f78f2550213a61cedf051e5b30d968ed0f12b194d7e8d7dec68351ddd48d5544c6c9a6b09a57bcfc5d335d
+Version/behave=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|cdddabdfa22fcdb18d26f4ecd906536d1d4b07f2525a0f17cc27911d802357b6
+
+[~MFT]
+0=14|0FuncGen.mgf|5277|0
+1=2|1FuncGen.mgf|3375|0
+3=2|3FuncGen.mgf|2259|0
+
+[~U]
+dds_sine=11|0*655|
+functiongen=FunctionGen 11|0*0|

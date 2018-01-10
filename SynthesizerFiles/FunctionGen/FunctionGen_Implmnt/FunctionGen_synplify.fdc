@@ -1,0 +1,6 @@
+#1001 define_clock {p:r_Clock} -name {FunctionGen|r_Clock} -ref_rise {0.000000} -ref_fall {41.666650} -uncertainty {0.000000} -period {83.333300} -clockgroup {Inferred_clkgroup_0} -rise {0.000000} -fall {41.666650}
+#1002 define_clock {n:FunctionGen_pll_inst.PLLOUTCOREA} -name {FunctionGen_pll|PLLOUTCOREA_derived_clock} -ref_rise {2.070000} -ref_fall {27.094126} -uncertainty {0.000000} -period {50.308253} -clockgroup {Inferred_clkgroup_0} -rise {2.070000} -fall {27.094126}
+#1003 define_clock {n:FunctionGen_pll_inst.PLLOUTCOREB} -name {FunctionGen_pll|PLLOUTCOREB_derived_clock} -ref_rise {2.070000} -ref_fall {52.238253} -uncertainty {0.000000} -period {100.616506} -clockgroup {Inferred_clkgroup_0} -rise {2.070000} -fall {52.238253} . . . 
+#1004 define_clock {n:dds_clk} -name {FunctionGen|dds_clk_derived_clock} -ref_rise {2.070000} -ref_fall {52.238200} -uncertainty {0.000000} -period {100.616500} -clockgroup {Inferred_clkgroup_0} -rise {2.070000} -fall {52.238200}
+#1005 define_multicycle_path -setup -from {c:FunctionGen|dds_clk_derived_clock} -to {c:FunctionGen|dds_clk_derived_clock} {2}
+#1006 define_multicycle_path -hold -from {c:FunctionGen|dds_clk_derived_clock} -to {c:FunctionGen|dds_clk_derived_clock} {1}

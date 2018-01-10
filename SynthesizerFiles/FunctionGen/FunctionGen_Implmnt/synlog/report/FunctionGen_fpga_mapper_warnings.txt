@@ -1,0 +1,18 @@
+@W: MT462 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\async_fifo.vhd":59:18:59:52|Net async_fifo_inst.going_full appears to be an unidentified clock source. Assuming default frequency. 
+@W: MO129 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\true_dual_port_ram.vhd":46:4:46:5|Sequential instance async_fifo_inst.tdp_ram_inst.b_dout[14] reduced to a combinational gate by constant propagation
+@W: MO129 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\true_dual_port_ram.vhd":46:4:46:5|Sequential instance async_fifo_inst.tdp_ram_inst.b_dout[15] reduced to a combinational gate by constant propagation
+@W: FX107 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\true_dual_port_ram.vhd":30:8:30:10|No read/write conflict check. Possible simulation mismatch!
+@W: BN132 :|Removing instance mem_0_1_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing instance mem_0_2_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing instance mem_0_3_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing instance mem_0_4_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing instance mem_0_5_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :|Removing instance mem_0_6_wclke because it is equivalent to instance mem_0_0_wclke. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":64:51:64:53|Removing instance SineDDS_INST.r_fcw[19] because it is equivalent to instance SineDDS_INST.r_fcw[17]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":64:51:64:53|Removing instance SineDDS_INST.r_fcw[17] because it is equivalent to instance SineDDS_INST.r_fcw[14]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":64:51:64:53|Removing instance SineDDS_INST.r_fcw[14] because it is equivalent to instance SineDDS_INST.r_fcw[13]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: BN132 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":64:51:64:53|Removing instance SineDDS_INST.r_fcw[13] because it is equivalent to instance SineDDS_INST.r_fcw[12]. To keep the instance, apply constraint syn_preserve=1 on the instance.
+@W: MO160 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\spi_master.vhd":36:39:36:41|Register bit Bit_Index[31] is always 0, optimizing ...
+@W: BN137 :|Found combinational loop during mapping at net async_fifo_inst.quadrant_status
+@W: BN137 :|Found combinational loop during mapping at net async_fifo_inst.wr_ptr_counter_inst.quadrant_status
+@W: MT420 |Found inferred clock FunctionGen|r_Clock with period 83.33ns. Please declare a user-defined clock on object "p:r_Clock"

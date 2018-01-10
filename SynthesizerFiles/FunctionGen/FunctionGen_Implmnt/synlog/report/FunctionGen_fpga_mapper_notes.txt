@@ -1,0 +1,139 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled 
+@N: BN362 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\top.vhd":226:4:226:5|Removing sequential instance fifo_wr_data[11] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: FX702 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\true_dual_port_ram.vhd":30:8:30:10|Found startup values on RAM instance tdp_ram_inst.mem[13:0]
+@N: MF179 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\async_fifo.vhd":48:29:48:41|Found 11 bit by 11 bit '==' comparator, 'check_equal_addr'
+@N: BN362 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\top.vhd":241:4:241:5|Removing sequential instance r_Data_to_DAC[14] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_00 = 71B1B1B1C6C6C6C6C6C6C5B1B1B1B16C6C6C1B1B16C6C1B1BC6C6B1B06C6B1B0
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_01 = 887721D8B721D8761CB62D861CB61871CB2CB2CB2C7186DB2C61B2C6DB1B6C6C
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_02 = 4E39E79279E78D349E378D2348DE27788DD2227777888888888888B7776221DD
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_03 = FFFFFFFFFFAA5500FEA503E943E943E50E90E93E4F93E4E4F939393924E4E393
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_04 = 1B2C6C61B1B1B1BC6C6F1BC6F1AC1AC16F05AF05AF016AFC0156ABFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_05 = DD2227777888888888888B7776221DC8B762DC8721CB72D871CB6DB61B6DB2C7
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_06 = E4E7939E4E3924E39E4934E38E38E38D349278D249E278D2749D23789D237489
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_07 = 393A4E4393A4E4F9390E4E539390E4E4E5393939394E4E4E4E4E4E4D39393934
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_08 = 24E4E4E493939393939390E4E4E4E4F939394E4E439394E4E9393E4E5393E4E4
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_09 = DD227489D2748D2349E278D249E34D249E79E79E7924934E7924E7938E4E3939
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0A = 1B6CB2C72CB2D861CB62D8761D8B722DD887772222DDDDDDDDDDDDE222377488
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0B = 1555555AAAFF0055ABF056BC15BC16B05BC5BC6B1AC6B1B16C6C6C6C61B1B6C6
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0C = 4E793924E4E4E4E5393A4E93A4F94F943A50F950FA543FA95403FEAA95555550
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0D = 887772222DDDDDDDDDDDDE222377489DE23789D2749E278D249E38E34E38E792
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0E = B1B2C6CB1B6C61B6C71861B6DB6DB6D861C72D861CB62D8721C8761D887621DC
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_0.INIT_0F = 6C6F1B16C6F1B1AC6C5B1B06C6C5B1B1BC6C6C6C6C1B1B1B1B1B1B186C6C6C61
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_00 = 4394E93E53A4F90E53A4F93E4394E93A4F90E4394E53A4E93A4F93E4390E4394
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_01 = 0F943E50E943A53E90E94FA43A43E53E53E53E53E53E53A43A4394F90E93E53A
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_02 = 0FEA5403EA540FEA503EA543FA503E950FA943E943FA50FA50FA50E943E943A5
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_03 = FFFFFFFFFFFFFFFFAAAAA955540003FFFAAA55400FFEAA55003FEA9540FFA954
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_04 = 55ABFC055AAFF00156AAFFC00556AABFFF00005555AAAAABFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_05 = 6B05AF05AC16BC16BC16BF05AF05ABC15AF016BF056AF016AFC056AF0056AFC0
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_06 = B16F1AC1BC5B06B06B16F16F16F16F16F16F06B06BC5AC1AF16B05AC16F05BC1
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_07 = 5B06C1B06F1BC6B1AC6B16C5B06C1BC6B1AC5B06F1BC6B16C1BC6B16F1AC5B06
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_08 = F16C1BC6B06F1AC5B06F1BC6B16C1BC6F1AC6B16C5B06C1BC6F1AC6B1AC5B16C
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_09 = C1AF06BC1AF16B05BC1AF16F16B06B06BC5BC5BC5B06B06B06F16F1AC1BC5B06
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0A = 0056AFC056AFC15ABF056BF056BF05ABC16AF05AF016BC16BC16BC1AF05AF16B
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0B = 0000000000005555555AAAABFFFC0005556AABFF00155AAFFC0156ABF0055ABF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0C = FA95403FAA5500FFEA955003FFAAA5554000FFFFAAAA95555554000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0D = A53E943E90FA50FA50FA503E943EA50FA943FA543FA543FA950FEA540FEA5403
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0E = 4394F90E93E53E43A43A4394F94F94FA43A43A53E53E90F943A53E90FA43E90F
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_1.INIT_0F = E5394E93A4E93E4F90E4394E53A4E93E4F90E53A4F93E4394E93E43A4F90E53E
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_00 = 03FFAA955400FFFAA955003FFEAA55400FFFAA955003FFAA955003FFEAA55400
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_01 = 50003FFFAAA9554000FFFAAA9554003FFEAA9554003FFEAA955400FFFAA95540
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_02 = FAAAAAA955555000003FFFFEAAAA9555500003FFFEAAAA55550000FFFEAAA955
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_03 = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFEAAAAAAAAAAA55555555540000000FFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_04 = FFFFFC00000005555555556AAAAAAAAAAAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_05 = 55AAAAFFFC00015556AAAAFFFF000015555AAAAAFFFFF00000155555AAAAAABF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_06 = 0555AABFFC00555AAAFFF000555AAAFFF000555AAABFFC000555AAABFFF00015
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_07 = 00556AAFFF00155AABFF00155AABFFC00556AAFFF00155AABFFC00555AABFF00
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_08 = F001556AAFFF00155AAAFFC00556AABFF00155AABFF001556AAFFC00556AAFFC
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_09 = BFFF0001555AAAFFFC000555AAAFFF0001556AABFF000555AAAFFF001556AAFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0A = 5555556AAAAABFFFFF0000055555AAAABFFFF000055556AAABFFFC0005555AAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0B = 0000000000000000000000000001555555555555AAAAAAAAABFFFFFFF0000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0C = 0000003FFFFFFFAAAAAAAAA95555555555550000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0D = AA95554000FFFFAAAA555540003FFFFAAAA95555400003FFFFFAAAAAA5555554
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0E = FEAA555003FFEAA9554003FFAAA5550003FFEAA9554000FFFEAA95550003FFFA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_2.INIT_0F = FFEAA55400FFEAA555003FFAA955003FFAAA55400FFEAA955003FFEAA555003F
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_00 = A9555555555500000000003FFFFFFFFFFAAAAAAAAAA955555555540000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_01 = FFFFEAAAAAAAAAAAAA5555555555554000000000003FFFFFFFFFFFAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_02 = AAAAAAAAAAAAAAAAAA955555555555555555540000000000000000FFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_03 = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_04 = AAAAABFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_05 = FFFFFFFFFC00000000000000005555555555555555555AAAAAAAAAAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_06 = AAAAAAAAABFFFFFFFFFFF0000000000005555555555556AAAAAAAAAAAAAFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_07 = 00000000005555555555AAAAAAAAAABFFFFFFFFFF000000000015555555555AA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_08 = 5AAAAAAAAAAAFFFFFFFFFFC00000000005555555555AAAAAAAAAABFFFFFFFFFC
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_09 = 000055555555555556AAAAAAAAAAAAFFFFFFFFFFFF0000000000005555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0A = 555555555555555555AAAAAAAAAAAAAAAAAAAFFFFFFFFFFFFFFFFC0000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0B = 0000000000000000000000000000000000000000000000000000000005555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0C = 5555554000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0D = 0000000000FFFFFFFFFFFFFFFFEAAAAAAAAAAAAAAAAAA9555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0E = 5555555554000000000003FFFFFFFFFFFEAAAAAAAAAAAA555555555555540000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_3.INIT_0F = FFFFFFFFFFAAAAAAAAAA955555555540000000000FFFFFFFFFFEAAAAAAAAAA95
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_00 = 5555555555555555555555400000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_01 = AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_02 = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_03 = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_04 = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_05 = AAAAAAAAABFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_06 = 555555555555555555555AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_07 = 0000000000000000000000000000000000000000055555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_08 = AAAAAAAAAAAAAAAAAAAAAABFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_09 = 555555555555555555555555555555555555555555AAAAAAAAAAAAAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0A = 0000000000000000000000000000000000000000000000000000015555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0B = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0C = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0D = 5555555555000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0E = AAAAAAAAAAAAAAAAAAAAA9555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_4.INIT_0F = FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAAAAAAAAAAAAAAAAAAAAAAA
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_00 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_01 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_02 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_03 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_04 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_05 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_06 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_07 = 5555555555555555555555555555555555555555555555555555555555555555
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_08 = 0000000000000000000000000000000000000000000000000000000000000001
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_09 = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0A = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0B = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0C = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0D = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0E = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX276 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":95:17:95:25|Startup value SineDDS_INST.p_rom\.lut_value_1_0_5.INIT_0F = 0000000000000000000000000000000000000000000000000000000000000000
+@N: FX211 |Packed ROM SineDDS_INST.p_rom\.lut_value_1_0[10:0] (11 input, 11 output) to Block SelectRAM 
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_5_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_5_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_4_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_4_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_3_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_3_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_2_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_2_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_1_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_1_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_0_sr_rst (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_0_sr_rst_0 (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_0_sr_en_0 (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_0_OLD_0[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_0_OLD_0[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\dds_sine.vhd":64:51:64:53|Removing sequential instance SineDDS_INST.r_nco[0] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: BN362 :|Removing sequential instance SineDDS_INST.p_rom\.lut_value_1_0_5_OLD[1] (in view: work.FunctionGen(behave)) because it does not drive other instances.
+@N: FX1017 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\top.vhd":168:8:168:27|SB_GB inserted on the net r_PLL_DDS_Clk.
+@N: FX1017 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\top.vhd":168:8:168:27|SB_GB inserted on the net r_PLL_Clk.
+@N: FX1017 :|SB_GB inserted on the net N_137.
+@N: FX1017 :|SB_GB inserted on the net w_reset_i.
+@N: FX1017 :|SB_GB inserted on the net w_rstb_c_i.
+@N: FX1017 :"c:\users\chris\onedrive\hw_projects\funcgen\vhdl files\top.vhd":283:16:283:17|SB_GB inserted on the net fifo_clear.
+@N: FX1017 :|SB_GB inserted on the net N_58_i.
+@N: BW103 |Synopsys Constraint File time units using default value of 1ns 
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\FunctionGen.edf
+@N: MT615 |Found clock FunctionGen|dds_clk_derived_clock with period 100.62ns 
+@N: MT615 |Found clock FunctionGen_pll|PLLOUTCOREB_derived_clock with period 100.62ns 
+@N: MT615 |Found clock FunctionGen_pll|PLLOUTCOREA_derived_clock with period 50.31ns 
+@N: MT320 |Timing report estimates place and route data. Please look at the place and route timing report for final timing.
+@N: MT322 |Clock constraints cover only FF-to-FF paths associated with the clock.
+@N: MT582 |Estimated period and frequency not reported for given clock unless the clock has at least one timing path which is not a false or a max delay path and that does not have excessive slack
+@N: MT320 |Timing report estimates place and route data. Please look at the place and route timing report for final timing.
+@N: MT322 |Clock constraints cover only FF-to-FF paths associated with the clock.
+@N: MT582 |Estimated period and frequency not reported for given clock unless the clock has at least one timing path which is not a false or a max delay path and that does not have excessive slack

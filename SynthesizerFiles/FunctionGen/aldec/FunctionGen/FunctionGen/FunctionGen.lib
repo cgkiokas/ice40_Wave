@@ -1,0 +1,50 @@
+timestamp=1503776279466
+
+[~A]
+ModifyID=1
+Version=73
+
+[dds_sine]
+A/rtl=21|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|18|1*0
+BinI32/rtl=3*0
+I=0*821
+I/rtl=0*3532
+M=11|0|vc6|1503776278574|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|0*238*0xfe5819aa6f7898e7f03304ee61fbc1887bf44415|0*694*0x5eebbfaf24833dd780412b1f91e05209
+M/rtl=21|0|vc6|1503776278596|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|0*1044*0xffe044873327cca338853d76ce8d9d100a1d48b2|0*3398*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd|7
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|88db58d0e4a3d360ec74b284359a7c35eaf190bca5f7b29ee504cb730d4c63eb83410323052feb04e91efb1ef8e48540
+Version/rtl=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|9dbb47eebe7da777b751efca131652c53754ae548d2ef9659163c621dcd82798
+
+[functiongen]
+I=0*9440
+M=11|0|vc6|1503776279271|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|0*8933*0x014e0c884c4bebfb2782c1bd897a413def72bfbc|0*9315*0x5eebbfaf24833dd780412b1f91e05209
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd|5
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|c7cbe9e551f78f2550213a61cedf051e5b30d968ed0f12b194d7e8d7dec68351c98eec28c9847d7e062d094f85e7fd14
+
+[functiongen_pll]
+I=0*4475
+M=11|0|vc6|1503776279038|C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/FunctionGen_pll.vhd|0*3983*0x12cade4cdcd0326bb545b80c32e47211afb4af47|0*4334*0x5eebbfaf24833dd780412b1f91e05209
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/FunctionGen_pll.vhd|4
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|99d7688f7156159316acc1f76a29e12f9594130709efb21e8d04e854731b3a2414daaffeb5861cd3a1c4ad16a1edb251
+
+[spi_master]
+A/behave=21|C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd|26|1*58632
+BinI32/behave=3*2236
+I=0*5584
+I/behave=0*8483
+M=11|0|vc6|1503776279079|C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd|0*4886*0x28383037489130e799d82101e7f6a30b411c6cba|0*5453*0x5eebbfaf24833dd780412b1f91e05209
+M/behave=21|0|vc6|1503776279086|C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd|0*5809*0x97530cfb71eb0e67bb3cdc01efa9fb7b3be42e60|0*8342*0x856b180bf611ec746a6bfcb1befebd18
+R=C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd|6
+Version=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|d1256530a4d29ff9ec8c51bb757f76d67bca822e3b193d76ae7bdf8a2d46ede3ea8702f86133715a9b925ce3f79a0172
+Version/behave=10.2.3312.5682  (Windows)|00000003789cd3f5370600015b00b0|cdddabdfa22fcdb18d26f4ecd906536d797a2335a26abfedf9b324e1b7c4f69c
+
+[~MFT]
+0=22|0FunctionGen.mgf|9440|0
+1=2|1FunctionGen.mgf|58632|0
+3=2|3FunctionGen.mgf|2236|0
+
+[~U]
+dds_sine=11|0*0|
+functiongen=FunctionGen 11|0*8715|
+functiongen_pll=FunctionGen_pll 11|0*3759|
+spi_master=11|0*4584|

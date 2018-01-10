@@ -1,0 +1,79 @@
+<html><body><samp><pre>
+<!@TC:1503760464>
+<a name=30></a># Synopsys Constraint Checker, version maplat, Build 1346R, built Dec  9 2015</a>
+# Copyright (C) 1994-2015, Synopsys, Inc. This software and the associated documentation are proprietary to Synopsys, Inc. This software may only be used in accordance with the terms and conditions of a written license agreement with Synopsys, Inc.  All other use, reproduction, or distribution of this software is strictly prohibited.
+
+# Written on Sat Aug 26 18:14:24 2017
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "FunctionGen"
+Constraint File(s):      (none)
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+<a name=clockRelationships31></a>Clock Relationships</a>
+*******************
+
+Starting                                     Ending                                       |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FunctionGen|r_Clock                          FunctionGen|r_Clock                          |     465.270          |     No paths         |     No paths         |     No paths                         
+FunctionGen_pll|PLLOUTCORE_derived_clock     FunctionGen|r_Clock                          |     10.820           |     No paths         |     No paths         |     No paths                         
+FunctionGen_pll|PLLOUTCORE_derived_clock     FunctionGen_pll|PLLOUTCORE_derived_clock     |     280.884          |     No paths         |     No paths         |     No paths                         
+=====================================================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+<font color=#A52A2A>@W: : <!@TM:1503760464> | Paths from clock (FunctionGen_pll|PLLOUTCORE_derived_clock:r) to clock (FunctionGen|r_Clock:r) are overconstrained because the required time of 10.82 ns is too small.  </font> 
+
+
+Unconstrained Start/End Points
+******************************
+
+p:w_mosi
+p:w_reset
+p:w_rstb
+p:w_sclk
+p:w_ss
+p:w_sync_reset
+p:w_tx_end
+p:w_tx_start
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report
+
+</pre></samp></body></html>

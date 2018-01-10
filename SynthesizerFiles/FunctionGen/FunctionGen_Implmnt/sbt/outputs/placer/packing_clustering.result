@@ -1,0 +1,318 @@
+ble_pack SineDDS_INST.r_nco[1]_LC_110 {SineDDS_INST.r_nco[1], SineDDS_INST.un1_r_nco_cry_1_c, SineDDS_INST.r_nco_RNO[1]}
+ble_pack SineDDS_INST.r_nco[2]_LC_121 {SineDDS_INST.r_nco[2], SineDDS_INST.un1_r_nco_cry_2_c, SineDDS_INST.r_nco_RNO[2]}
+ble_pack SineDDS_INST.r_nco[3]_LC_132 {SineDDS_INST.r_nco[3], SineDDS_INST.un1_r_nco_cry_3_c, SineDDS_INST.r_nco_RNO[3]}
+ble_pack SineDDS_INST.r_nco[4]_LC_135 {SineDDS_INST.r_nco[4], SineDDS_INST.un1_r_nco_cry_4_c, SineDDS_INST.r_nco_RNO[4]}
+ble_pack SineDDS_INST.r_nco[5]_LC_136 {SineDDS_INST.r_nco[5], SineDDS_INST.un1_r_nco_cry_5_c, SineDDS_INST.r_nco_RNO[5]}
+ble_pack SineDDS_INST.r_nco[6]_LC_137 {SineDDS_INST.r_nco[6], SineDDS_INST.un1_r_nco_cry_6_c, SineDDS_INST.r_nco_RNO[6]}
+ble_pack SineDDS_INST.r_nco[7]_LC_138 {SineDDS_INST.r_nco[7], SineDDS_INST.un1_r_nco_cry_7_c, SineDDS_INST.r_nco_RNO[7]}
+ble_pack SineDDS_INST.r_nco[8]_LC_139 {SineDDS_INST.r_nco[8], SineDDS_INST.un1_r_nco_cry_8_c, SineDDS_INST.r_nco_RNO[8]}
+clb_pack PLB_0 {SineDDS_INST.r_nco[1]_LC_110, SineDDS_INST.r_nco[2]_LC_121, SineDDS_INST.r_nco[3]_LC_132, SineDDS_INST.r_nco[4]_LC_135, SineDDS_INST.r_nco[5]_LC_136, SineDDS_INST.r_nco[6]_LC_137, SineDDS_INST.r_nco[7]_LC_138, SineDDS_INST.r_nco[8]_LC_139}
+ble_pack SineDDS_INST.r_nco[9]_LC_140 {SineDDS_INST.r_nco[9], SineDDS_INST.un1_r_nco_cry_9_c, SineDDS_INST.r_nco_RNO[9]}
+ble_pack SineDDS_INST.r_nco[10]_LC_111 {SineDDS_INST.r_nco[10], SineDDS_INST.un1_r_nco_cry_10_c, SineDDS_INST.r_nco_RNO[10]}
+ble_pack SineDDS_INST.r_nco[11]_LC_112 {SineDDS_INST.r_nco[11], SineDDS_INST.un1_r_nco_cry_11_c, SineDDS_INST.r_nco_RNO[11]}
+ble_pack SineDDS_INST.r_nco[12]_LC_113 {SineDDS_INST.r_nco[12], SineDDS_INST.un1_r_nco_cry_12_c, SineDDS_INST.r_nco_RNO[12]}
+ble_pack SineDDS_INST.r_nco[13]_LC_114 {SineDDS_INST.r_nco[13], SineDDS_INST.un1_r_nco_cry_13_c, SineDDS_INST.r_nco_RNO[13]}
+ble_pack SineDDS_INST.r_nco[14]_LC_115 {SineDDS_INST.r_nco[14], SineDDS_INST.un1_r_nco_cry_14_c, SineDDS_INST.r_nco_RNO[14]}
+ble_pack SineDDS_INST.r_nco[15]_LC_116 {SineDDS_INST.r_nco[15], SineDDS_INST.un1_r_nco_cry_15_c, SineDDS_INST.r_nco_RNO[15]}
+ble_pack SineDDS_INST.r_nco[16]_LC_117 {SineDDS_INST.r_nco[16], SineDDS_INST.un1_r_nco_cry_16_c, SineDDS_INST.r_nco_RNO[16]}
+clb_pack PLB_1 {SineDDS_INST.r_nco[9]_LC_140, SineDDS_INST.r_nco[10]_LC_111, SineDDS_INST.r_nco[11]_LC_112, SineDDS_INST.r_nco[12]_LC_113, SineDDS_INST.r_nco[13]_LC_114, SineDDS_INST.r_nco[14]_LC_115, SineDDS_INST.r_nco[15]_LC_116, SineDDS_INST.r_nco[16]_LC_117}
+ble_pack SineDDS_INST.r_nco[17]_LC_118 {SineDDS_INST.r_nco[17], SineDDS_INST.un1_r_nco_cry_17_c, SineDDS_INST.r_nco_RNO[17]}
+ble_pack SineDDS_INST.r_nco[18]_LC_119 {SineDDS_INST.r_nco[18], SineDDS_INST.un1_r_nco_cry_18_c, SineDDS_INST.r_nco_RNO[18]}
+ble_pack SineDDS_INST.r_nco[19]_LC_120 {SineDDS_INST.r_nco[19], SineDDS_INST.un1_r_nco_cry_19_c, SineDDS_INST.r_nco_RNO[19]}
+ble_pack SineDDS_INST.r_nco[20]_LC_122 {SineDDS_INST.r_nco[20], SineDDS_INST.un1_r_nco_cry_20_c, SineDDS_INST.r_nco_RNO[20]}
+ble_pack SineDDS_INST.r_nco[21]_LC_123 {SineDDS_INST.r_nco[21], SineDDS_INST.un1_r_nco_cry_21_c, SineDDS_INST.r_nco_RNO[21]}
+ble_pack SineDDS_INST.r_nco[22]_LC_124 {SineDDS_INST.r_nco[22], SineDDS_INST.un1_r_nco_cry_22_c, SineDDS_INST.r_nco_RNO[22]}
+ble_pack SineDDS_INST.r_nco[23]_LC_125 {SineDDS_INST.r_nco[23], SineDDS_INST.un1_r_nco_cry_23_c, SineDDS_INST.r_nco_RNO[23]}
+ble_pack SineDDS_INST.r_nco[24]_LC_126 {SineDDS_INST.r_nco[24], SineDDS_INST.un1_r_nco_cry_24_c, SineDDS_INST.r_nco_RNO[24]}
+clb_pack PLB_2 {SineDDS_INST.r_nco[17]_LC_118, SineDDS_INST.r_nco[18]_LC_119, SineDDS_INST.r_nco[19]_LC_120, SineDDS_INST.r_nco[20]_LC_122, SineDDS_INST.r_nco[21]_LC_123, SineDDS_INST.r_nco[22]_LC_124, SineDDS_INST.r_nco[23]_LC_125, SineDDS_INST.r_nco[24]_LC_126}
+ble_pack SineDDS_INST.r_nco[25]_LC_127 {SineDDS_INST.r_nco[25], SineDDS_INST.un1_r_nco_cry_25_c, SineDDS_INST.r_nco_RNO[25]}
+ble_pack SineDDS_INST.r_nco[26]_LC_128 {SineDDS_INST.r_nco[26], SineDDS_INST.un1_r_nco_cry_26_c, SineDDS_INST.r_nco_RNO[26]}
+ble_pack SineDDS_INST.r_nco[27]_LC_129 {SineDDS_INST.r_nco[27], SineDDS_INST.un1_r_nco_cry_27_c, SineDDS_INST.r_nco_RNO[27]}
+ble_pack SineDDS_INST.r_nco[28]_LC_130 {SineDDS_INST.r_nco[28], SineDDS_INST.un1_r_nco_cry_28_c, SineDDS_INST.r_nco_RNO[28]}
+ble_pack SineDDS_INST.r_nco[29]_LC_131 {SineDDS_INST.r_nco[29], SineDDS_INST.un1_r_nco_cry_29_c, SineDDS_INST.r_nco_RNO[29]}
+ble_pack SineDDS_INST.r_nco[30]_LC_133 {SineDDS_INST.r_nco[30], SineDDS_INST.un1_r_nco_cry_30_c, SineDDS_INST.r_nco_RNO[30]}
+ble_pack SineDDS_INST.r_nco[31]_LC_134 {SineDDS_INST.r_nco[31], SineDDS_INST.r_nco_RNO[31]}
+ble_pack SineDDS_INST.r_sync_reset_LC_234 {SineDDS_INST.r_sync_reset, SineDDS_INST.r_sync_reset_THRU_LUT4_0}
+clb_pack PLB_3 {SineDDS_INST.r_nco[25]_LC_127, SineDDS_INST.r_nco[26]_LC_128, SineDDS_INST.r_nco[27]_LC_129, SineDDS_INST.r_nco[28]_LC_130, SineDDS_INST.r_nco[29]_LC_131, SineDDS_INST.r_nco[30]_LC_133, SineDDS_INST.r_nco[31]_LC_134, SineDDS_INST.r_sync_reset_LC_234}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[0]_LC_153 {async_fifo_inst.rd_ptr_counter_inst.count[0], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[0], async_fifo_inst.rd_ptr_counter_inst.count_RNO[0]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[1]_LC_154 {async_fifo_inst.rd_ptr_counter_inst.count[1], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[1], async_fifo_inst.rd_ptr_counter_inst.count_RNO[1]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[2]_LC_156 {async_fifo_inst.rd_ptr_counter_inst.count[2], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[2], async_fifo_inst.rd_ptr_counter_inst.count_RNO[2]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[3]_LC_157 {async_fifo_inst.rd_ptr_counter_inst.count[3], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[3], async_fifo_inst.rd_ptr_counter_inst.count_RNO[3]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[4]_LC_158 {async_fifo_inst.rd_ptr_counter_inst.count[4], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[4], async_fifo_inst.rd_ptr_counter_inst.count_RNO[4]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[5]_LC_159 {async_fifo_inst.rd_ptr_counter_inst.count[5], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[5], async_fifo_inst.rd_ptr_counter_inst.count_RNO[5]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[6]_LC_160 {async_fifo_inst.rd_ptr_counter_inst.count[6], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[6], async_fifo_inst.rd_ptr_counter_inst.count_RNO[6]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[7]_LC_161 {async_fifo_inst.rd_ptr_counter_inst.count[7], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[7], async_fifo_inst.rd_ptr_counter_inst.count_RNO[7]}
+clb_pack PLB_4 {async_fifo_inst.rd_ptr_counter_inst.count[0]_LC_153, async_fifo_inst.rd_ptr_counter_inst.count[1]_LC_154, async_fifo_inst.rd_ptr_counter_inst.count[2]_LC_156, async_fifo_inst.rd_ptr_counter_inst.count[3]_LC_157, async_fifo_inst.rd_ptr_counter_inst.count[4]_LC_158, async_fifo_inst.rd_ptr_counter_inst.count[5]_LC_159, async_fifo_inst.rd_ptr_counter_inst.count[6]_LC_160, async_fifo_inst.rd_ptr_counter_inst.count[7]_LC_161}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[8]_LC_162 {async_fifo_inst.rd_ptr_counter_inst.count[8], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[8], async_fifo_inst.rd_ptr_counter_inst.count_RNO[8]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[9]_LC_163 {async_fifo_inst.rd_ptr_counter_inst.count[9], async_fifo_inst.rd_ptr_counter_inst.count_cry_c[9], async_fifo_inst.rd_ptr_counter_inst.count_RNO[9]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count[10]_LC_155 {async_fifo_inst.rd_ptr_counter_inst.count[10], async_fifo_inst.rd_ptr_counter_inst.count_RNO[10]}
+clb_pack PLB_5 {async_fifo_inst.rd_ptr_counter_inst.count[8]_LC_162, async_fifo_inst.rd_ptr_counter_inst.count[9]_LC_163, async_fifo_inst.rd_ptr_counter_inst.count[10]_LC_155}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[0]_LC_190 {async_fifo_inst.wr_ptr_counter_inst.count[0], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[0], async_fifo_inst.wr_ptr_counter_inst.count_RNO[0]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[1]_LC_191 {async_fifo_inst.wr_ptr_counter_inst.count[1], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[1], async_fifo_inst.wr_ptr_counter_inst.count_RNO[1]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[2]_LC_193 {async_fifo_inst.wr_ptr_counter_inst.count[2], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[2], async_fifo_inst.wr_ptr_counter_inst.count_RNO[2]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[3]_LC_194 {async_fifo_inst.wr_ptr_counter_inst.count[3], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[3], async_fifo_inst.wr_ptr_counter_inst.count_RNO[3]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[4]_LC_195 {async_fifo_inst.wr_ptr_counter_inst.count[4], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[4], async_fifo_inst.wr_ptr_counter_inst.count_RNO[4]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[5]_LC_196 {async_fifo_inst.wr_ptr_counter_inst.count[5], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[5], async_fifo_inst.wr_ptr_counter_inst.count_RNO[5]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[6]_LC_197 {async_fifo_inst.wr_ptr_counter_inst.count[6], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[6], async_fifo_inst.wr_ptr_counter_inst.count_RNO[6]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[7]_LC_198 {async_fifo_inst.wr_ptr_counter_inst.count[7], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[7], async_fifo_inst.wr_ptr_counter_inst.count_RNO[7]}
+clb_pack PLB_6 {async_fifo_inst.wr_ptr_counter_inst.count[0]_LC_190, async_fifo_inst.wr_ptr_counter_inst.count[1]_LC_191, async_fifo_inst.wr_ptr_counter_inst.count[2]_LC_193, async_fifo_inst.wr_ptr_counter_inst.count[3]_LC_194, async_fifo_inst.wr_ptr_counter_inst.count[4]_LC_195, async_fifo_inst.wr_ptr_counter_inst.count[5]_LC_196, async_fifo_inst.wr_ptr_counter_inst.count[6]_LC_197, async_fifo_inst.wr_ptr_counter_inst.count[7]_LC_198}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[8]_LC_199 {async_fifo_inst.wr_ptr_counter_inst.count[8], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[8], async_fifo_inst.wr_ptr_counter_inst.count_RNO[8]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[9]_LC_200 {async_fifo_inst.wr_ptr_counter_inst.count[9], async_fifo_inst.wr_ptr_counter_inst.count_cry_c[9], async_fifo_inst.wr_ptr_counter_inst.count_RNO[9]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count[10]_LC_192 {async_fifo_inst.wr_ptr_counter_inst.count[10], async_fifo_inst.wr_ptr_counter_inst.count_RNO[10]}
+clb_pack PLB_7 {async_fifo_inst.wr_ptr_counter_inst.count[8]_LC_199, async_fifo_inst.wr_ptr_counter_inst.count[9]_LC_200, async_fifo_inst.wr_ptr_counter_inst.count[10]_LC_192}
+ble_pack SPI_Master_INST.un1_Bit_Index_cry_0_c_LC_266 {SPI_Master_INST.un1_Bit_Index_cry_0_c}
+ble_pack SPI_Master_INST.Bit_Index[1]_LC_31 {SPI_Master_INST.Bit_Index[1], SPI_Master_INST.un1_Bit_Index_cry_1_c, SPI_Master_INST.Bit_Index_RNO[1]}
+ble_pack SPI_Master_INST.Bit_Index[2]_LC_42 {SPI_Master_INST.Bit_Index[2], SPI_Master_INST.un1_Bit_Index_cry_2_c, SPI_Master_INST.Bit_Index_RNO[2]}
+ble_pack SPI_Master_INST.Bit_Index[3]_LC_53 {SPI_Master_INST.Bit_Index[3], SPI_Master_INST.un1_Bit_Index_cry_3_c, SPI_Master_INST.Bit_Index_RNO[3]}
+ble_pack SPI_Master_INST.Bit_Index[4]_LC_55 {SPI_Master_INST.Bit_Index[4], SPI_Master_INST.un1_Bit_Index_cry_4_c, SPI_Master_INST.Bit_Index_RNO[4]}
+ble_pack SPI_Master_INST.Bit_Index[5]_LC_56 {SPI_Master_INST.Bit_Index[5], SPI_Master_INST.un1_Bit_Index_cry_5_c, SPI_Master_INST.Bit_Index_RNO[5]}
+ble_pack SPI_Master_INST.Bit_Index[6]_LC_57 {SPI_Master_INST.Bit_Index[6], SPI_Master_INST.un1_Bit_Index_cry_6_c, SPI_Master_INST.Bit_Index_RNO[6]}
+ble_pack SPI_Master_INST.Bit_Index[7]_LC_58 {SPI_Master_INST.Bit_Index[7], SPI_Master_INST.un1_Bit_Index_cry_7_c, SPI_Master_INST.Bit_Index_RNO[7]}
+clb_pack PLB_8 {SPI_Master_INST.un1_Bit_Index_cry_0_c_LC_266, SPI_Master_INST.Bit_Index[1]_LC_31, SPI_Master_INST.Bit_Index[2]_LC_42, SPI_Master_INST.Bit_Index[3]_LC_53, SPI_Master_INST.Bit_Index[4]_LC_55, SPI_Master_INST.Bit_Index[5]_LC_56, SPI_Master_INST.Bit_Index[6]_LC_57, SPI_Master_INST.Bit_Index[7]_LC_58}
+ble_pack SPI_Master_INST.Bit_Index[8]_LC_59 {SPI_Master_INST.Bit_Index[8], SPI_Master_INST.un1_Bit_Index_cry_8_c, SPI_Master_INST.Bit_Index_RNO[8]}
+ble_pack SPI_Master_INST.Bit_Index[9]_LC_60 {SPI_Master_INST.Bit_Index[9], SPI_Master_INST.un1_Bit_Index_cry_9_c, SPI_Master_INST.Bit_Index_RNO[9]}
+ble_pack SPI_Master_INST.Bit_Index[10]_LC_32 {SPI_Master_INST.Bit_Index[10], SPI_Master_INST.un1_Bit_Index_cry_10_c, SPI_Master_INST.Bit_Index_RNO[10]}
+ble_pack SPI_Master_INST.Bit_Index[11]_LC_33 {SPI_Master_INST.Bit_Index[11], SPI_Master_INST.un1_Bit_Index_cry_11_c, SPI_Master_INST.Bit_Index_RNO[11]}
+ble_pack SPI_Master_INST.Bit_Index[12]_LC_34 {SPI_Master_INST.Bit_Index[12], SPI_Master_INST.un1_Bit_Index_cry_12_c, SPI_Master_INST.Bit_Index_RNO[12]}
+ble_pack SPI_Master_INST.Bit_Index[13]_LC_35 {SPI_Master_INST.Bit_Index[13], SPI_Master_INST.un1_Bit_Index_cry_13_c, SPI_Master_INST.Bit_Index_RNO[13]}
+ble_pack SPI_Master_INST.Bit_Index[14]_LC_36 {SPI_Master_INST.Bit_Index[14], SPI_Master_INST.un1_Bit_Index_cry_14_c, SPI_Master_INST.Bit_Index_RNO[14]}
+ble_pack SPI_Master_INST.Bit_Index[15]_LC_37 {SPI_Master_INST.Bit_Index[15], SPI_Master_INST.un1_Bit_Index_cry_15_c, SPI_Master_INST.Bit_Index_RNO[15]}
+clb_pack PLB_9 {SPI_Master_INST.Bit_Index[8]_LC_59, SPI_Master_INST.Bit_Index[9]_LC_60, SPI_Master_INST.Bit_Index[10]_LC_32, SPI_Master_INST.Bit_Index[11]_LC_33, SPI_Master_INST.Bit_Index[12]_LC_34, SPI_Master_INST.Bit_Index[13]_LC_35, SPI_Master_INST.Bit_Index[14]_LC_36, SPI_Master_INST.Bit_Index[15]_LC_37}
+ble_pack SPI_Master_INST.Bit_Index[16]_LC_38 {SPI_Master_INST.Bit_Index[16], SPI_Master_INST.un1_Bit_Index_cry_16_c, SPI_Master_INST.Bit_Index_RNO[16]}
+ble_pack SPI_Master_INST.Bit_Index[17]_LC_39 {SPI_Master_INST.Bit_Index[17], SPI_Master_INST.un1_Bit_Index_cry_17_c, SPI_Master_INST.Bit_Index_RNO[17]}
+ble_pack SPI_Master_INST.Bit_Index[18]_LC_40 {SPI_Master_INST.Bit_Index[18], SPI_Master_INST.un1_Bit_Index_cry_18_c, SPI_Master_INST.Bit_Index_RNO[18]}
+ble_pack SPI_Master_INST.Bit_Index[19]_LC_41 {SPI_Master_INST.Bit_Index[19], SPI_Master_INST.un1_Bit_Index_cry_19_c, SPI_Master_INST.Bit_Index_RNO[19]}
+ble_pack SPI_Master_INST.Bit_Index[20]_LC_43 {SPI_Master_INST.Bit_Index[20], SPI_Master_INST.un1_Bit_Index_cry_20_c, SPI_Master_INST.Bit_Index_RNO[20]}
+ble_pack SPI_Master_INST.Bit_Index[21]_LC_44 {SPI_Master_INST.Bit_Index[21], SPI_Master_INST.un1_Bit_Index_cry_21_c, SPI_Master_INST.Bit_Index_RNO[21]}
+ble_pack SPI_Master_INST.Bit_Index[22]_LC_45 {SPI_Master_INST.Bit_Index[22], SPI_Master_INST.un1_Bit_Index_cry_22_c, SPI_Master_INST.Bit_Index_RNO[22]}
+ble_pack SPI_Master_INST.Bit_Index[23]_LC_46 {SPI_Master_INST.Bit_Index[23], SPI_Master_INST.un1_Bit_Index_cry_23_c, SPI_Master_INST.Bit_Index_RNO[23]}
+clb_pack PLB_10 {SPI_Master_INST.Bit_Index[16]_LC_38, SPI_Master_INST.Bit_Index[17]_LC_39, SPI_Master_INST.Bit_Index[18]_LC_40, SPI_Master_INST.Bit_Index[19]_LC_41, SPI_Master_INST.Bit_Index[20]_LC_43, SPI_Master_INST.Bit_Index[21]_LC_44, SPI_Master_INST.Bit_Index[22]_LC_45, SPI_Master_INST.Bit_Index[23]_LC_46}
+ble_pack SPI_Master_INST.Bit_Index[24]_LC_47 {SPI_Master_INST.Bit_Index[24], SPI_Master_INST.un1_Bit_Index_cry_24_c, SPI_Master_INST.Bit_Index_RNO[24]}
+ble_pack SPI_Master_INST.Bit_Index[25]_LC_48 {SPI_Master_INST.Bit_Index[25], SPI_Master_INST.un1_Bit_Index_cry_25_c, SPI_Master_INST.Bit_Index_RNO[25]}
+ble_pack SPI_Master_INST.Bit_Index[26]_LC_49 {SPI_Master_INST.Bit_Index[26], SPI_Master_INST.un1_Bit_Index_cry_26_c, SPI_Master_INST.Bit_Index_RNO[26]}
+ble_pack SPI_Master_INST.Bit_Index[27]_LC_50 {SPI_Master_INST.Bit_Index[27], SPI_Master_INST.un1_Bit_Index_cry_27_c, SPI_Master_INST.Bit_Index_RNO[27]}
+ble_pack SPI_Master_INST.Bit_Index[28]_LC_51 {SPI_Master_INST.Bit_Index[28], SPI_Master_INST.un1_Bit_Index_cry_28_c, SPI_Master_INST.Bit_Index_RNO[28]}
+ble_pack SPI_Master_INST.Bit_Index[29]_LC_52 {SPI_Master_INST.Bit_Index[29], SPI_Master_INST.un1_Bit_Index_cry_29_c, SPI_Master_INST.Bit_Index_RNO[29]}
+ble_pack SPI_Master_INST.Bit_Index[30]_LC_54 {SPI_Master_INST.Bit_Index[30], SPI_Master_INST.Bit_Index_RNO[30]}
+clb_pack PLB_11 {SPI_Master_INST.Bit_Index[24]_LC_47, SPI_Master_INST.Bit_Index[25]_LC_48, SPI_Master_INST.Bit_Index[26]_LC_49, SPI_Master_INST.Bit_Index[27]_LC_50, SPI_Master_INST.Bit_Index[28]_LC_51, SPI_Master_INST.Bit_Index[29]_LC_52, SPI_Master_INST.Bit_Index[30]_LC_54}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c_LC_267 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c_LC_268 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c_LC_269 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c_LC_270 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c_LC_271 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c_LC_272 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c_LC_273 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_LC_274 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c}
+clb_pack PLB_12 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c_LC_267, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c_LC_268, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c_LC_269, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c_LC_270, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c_LC_271, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c_LC_272, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c_LC_273, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_LC_274}
+ble_pack SPI_Master_INST.w_tc_counter_data_THRU_LUT4_0_LC_265 {SPI_Master_INST.w_tc_counter_data_THRU_LUT4_0}
+clb_pack PLB_13 {SPI_Master_INST.w_tc_counter_data_THRU_LUT4_0_LC_265}
+ble_pack SPI_Master_INST.o_sclk_RNO_0_LC_82 {SPI_Master_INST.o_sclk_RNO_0}
+ble_pack SPI_Master_INST.o_sclk_LC_81 {SPI_Master_INST.o_sclk, SPI_Master_INST.o_sclk_RNO}
+ble_pack SPI_Master_INST.st_current[0]_LC_87 {SPI_Master_INST.st_current[0], SPI_Master_INST.st_current_RNO[0]}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNIIK1O_LC_97 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNIIK1O}
+ble_pack SPI_Master_INST.st_current[1]_LC_88 {SPI_Master_INST.st_current[1], SPI_Master_INST.st_current_RNO[1]}
+ble_pack SPI_Master_INST.sclk_fall_RNILU1D1_LC_85 {SPI_Master_INST.sclk_fall_RNILU1D1}
+ble_pack SPI_Master_INST.o_ss_LC_83 {SPI_Master_INST.o_ss, SPI_Master_INST.o_ss_RNO}
+ble_pack SPI_Master_INST.Tx_Done_LC_78 {SPI_Master_INST.Tx_Done, SPI_Master_INST.Tx_Done_RNO}
+clb_pack PLB_14 {SPI_Master_INST.o_sclk_RNO_0_LC_82, SPI_Master_INST.o_sclk_LC_81, SPI_Master_INST.st_current[0]_LC_87, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNIIK1O_LC_97, SPI_Master_INST.st_current[1]_LC_88, SPI_Master_INST.sclk_fall_RNILU1D1_LC_85, SPI_Master_INST.o_ss_LC_83, SPI_Master_INST.Tx_Done_LC_78}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c_RNO_LC_90 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index[0]_LC_29 {SPI_Master_INST.Bit_Index[0], SPI_Master_INST.Bit_Index_RNO[0]}
+ble_pack SPI_Master_INST.un1_Bit_Index_cry_0_c_RNO_LC_89 {SPI_Master_INST.un1_Bit_Index_cry_0_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index_RNI0S9E[1]_LC_0 {SPI_Master_INST.Bit_Index_RNI0S9E[1]}
+ble_pack SPI_Master_INST.Bit_Index_RNI1T9E[2]_LC_1 {SPI_Master_INST.Bit_Index_RNI1T9E[2]}
+ble_pack SPI_Master_INST.Bit_Index_RNI2U9E[3]_LC_2 {SPI_Master_INST.Bit_Index_RNI2U9E[3]}
+ble_pack SPI_Master_INST.sclk_enable_LC_84 {SPI_Master_INST.sclk_enable, SPI_Master_INST.sclk_enable_RNO}
+ble_pack SPI_Master_INST.sclk_rise_LC_86 {SPI_Master_INST.sclk_rise, SPI_Master_INST.sclk_rise_RNO}
+clb_pack PLB_15 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_0_c_RNO_LC_90, SPI_Master_INST.Bit_Index[0]_LC_29, SPI_Master_INST.un1_Bit_Index_cry_0_c_RNO_LC_89, SPI_Master_INST.Bit_Index_RNI0S9E[1]_LC_0, SPI_Master_INST.Bit_Index_RNI1T9E[2]_LC_1, SPI_Master_INST.Bit_Index_RNI2U9E[3]_LC_2, SPI_Master_INST.sclk_enable_LC_84, SPI_Master_INST.sclk_rise_LC_86}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c_RNO_LC_91 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index_RNI3V9E[4]_LC_3 {SPI_Master_INST.Bit_Index_RNI3V9E[4]}
+ble_pack SPI_Master_INST.Bit_Index_RNI40AE[5]_LC_4 {SPI_Master_INST.Bit_Index_RNI40AE[5]}
+ble_pack SPI_Master_INST.Bit_Index_RNI51AE[6]_LC_5 {SPI_Master_INST.Bit_Index_RNI51AE[6]}
+ble_pack SPI_Master_INST.Bit_Index_RNI62AE[7]_LC_6 {SPI_Master_INST.Bit_Index_RNI62AE[7]}
+ble_pack SPI_Master_INST.Bit_Index_RNI73AE[8]_LC_7 {SPI_Master_INST.Bit_Index_RNI73AE[8]}
+ble_pack SPI_Master_INST.Bit_Index_RNI84AE[9]_LC_8 {SPI_Master_INST.Bit_Index_RNI84AE[9]}
+ble_pack SPI_Master_INST.Bit_Index_RNIGHHM[10]_LC_9 {SPI_Master_INST.Bit_Index_RNIGHHM[10]}
+clb_pack PLB_16 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_1_c_RNO_LC_91, SPI_Master_INST.Bit_Index_RNI3V9E[4]_LC_3, SPI_Master_INST.Bit_Index_RNI40AE[5]_LC_4, SPI_Master_INST.Bit_Index_RNI51AE[6]_LC_5, SPI_Master_INST.Bit_Index_RNI62AE[7]_LC_6, SPI_Master_INST.Bit_Index_RNI73AE[8]_LC_7, SPI_Master_INST.Bit_Index_RNI84AE[9]_LC_8, SPI_Master_INST.Bit_Index_RNIGHHM[10]_LC_9}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c_RNO_LC_92 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index_RNIHIHM[11]_LC_10 {SPI_Master_INST.Bit_Index_RNIHIHM[11]}
+ble_pack SPI_Master_INST.Bit_Index_RNIHJIM[20]_LC_11 {SPI_Master_INST.Bit_Index_RNIHJIM[20]}
+ble_pack SPI_Master_INST.Bit_Index_RNIIJHM[12]_LC_12 {SPI_Master_INST.Bit_Index_RNIIJHM[12]}
+ble_pack SPI_Master_INST.Bit_Index_RNIIKIM[21]_LC_13 {SPI_Master_INST.Bit_Index_RNIIKIM[21]}
+ble_pack SPI_Master_INST.Bit_Index_RNIJKHM[13]_LC_14 {SPI_Master_INST.Bit_Index_RNIJKHM[13]}
+ble_pack SPI_Master_INST.Bit_Index_RNIJLIM[22]_LC_15 {SPI_Master_INST.Bit_Index_RNIJLIM[22]}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c_RNO_LC_95 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c_RNO}
+clb_pack PLB_17 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_2_c_RNO_LC_92, SPI_Master_INST.Bit_Index_RNIHIHM[11]_LC_10, SPI_Master_INST.Bit_Index_RNIHJIM[20]_LC_11, SPI_Master_INST.Bit_Index_RNIIJHM[12]_LC_12, SPI_Master_INST.Bit_Index_RNIIKIM[21]_LC_13, SPI_Master_INST.Bit_Index_RNIJKHM[13]_LC_14, SPI_Master_INST.Bit_Index_RNIJLIM[22]_LC_15, SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_5_c_RNO_LC_95}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c_RNO_LC_93 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index_RNIKLHM[14]_LC_16 {SPI_Master_INST.Bit_Index_RNIKLHM[14]}
+ble_pack SPI_Master_INST.Bit_Index_RNILMHM[15]_LC_18 {SPI_Master_INST.Bit_Index_RNILMHM[15]}
+ble_pack SPI_Master_INST.Bit_Index_RNIKMIM[23]_LC_17 {SPI_Master_INST.Bit_Index_RNIKMIM[23]}
+ble_pack SPI_Master_INST.Bit_Index_RNILNIM[24]_LC_19 {SPI_Master_INST.Bit_Index_RNILNIM[24]}
+ble_pack SPI_Master_INST.Bit_Index_RNIMNHM[16]_LC_20 {SPI_Master_INST.Bit_Index_RNIMNHM[16]}
+ble_pack SPI_Master_INST.Bit_Index_RNIMOIM[25]_LC_21 {SPI_Master_INST.Bit_Index_RNIMOIM[25]}
+ble_pack SPI_Master_INST.Bit_Index_RNINOHM[17]_LC_22 {SPI_Master_INST.Bit_Index_RNINOHM[17]}
+clb_pack PLB_18 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_3_c_RNO_LC_93, SPI_Master_INST.Bit_Index_RNIKLHM[14]_LC_16, SPI_Master_INST.Bit_Index_RNILMHM[15]_LC_18, SPI_Master_INST.Bit_Index_RNIKMIM[23]_LC_17, SPI_Master_INST.Bit_Index_RNILNIM[24]_LC_19, SPI_Master_INST.Bit_Index_RNIMNHM[16]_LC_20, SPI_Master_INST.Bit_Index_RNIMOIM[25]_LC_21, SPI_Master_INST.Bit_Index_RNINOHM[17]_LC_22}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c_RNO_LC_94 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c_RNO}
+ble_pack SPI_Master_INST.Bit_Index_RNIOPHM[18]_LC_24 {SPI_Master_INST.Bit_Index_RNIOPHM[18]}
+ble_pack SPI_Master_INST.Bit_Index_RNIPQHM[19]_LC_26 {SPI_Master_INST.Bit_Index_RNIPQHM[19]}
+ble_pack SPI_Master_INST.Bit_Index_RNINPIM[26]_LC_23 {SPI_Master_INST.Bit_Index_RNINPIM[26]}
+ble_pack SPI_Master_INST.Bit_Index_RNIOQIM[27]_LC_25 {SPI_Master_INST.Bit_Index_RNIOQIM[27]}
+ble_pack SPI_Master_INST.Bit_Index_RNIPRIM[28]_LC_27 {SPI_Master_INST.Bit_Index_RNIPRIM[28]}
+ble_pack SPI_Master_INST.Bit_Index_RNIQSIM[29]_LC_28 {SPI_Master_INST.Bit_Index_RNIQSIM[29]}
+ble_pack SPI_Master_INST.Bit_Index_RNO_0[30]_LC_30 {SPI_Master_INST.Bit_Index_RNO_0[30]}
+clb_pack PLB_19 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_4_c_RNO_LC_94, SPI_Master_INST.Bit_Index_RNIOPHM[18]_LC_24, SPI_Master_INST.Bit_Index_RNIPQHM[19]_LC_26, SPI_Master_INST.Bit_Index_RNINPIM[26]_LC_23, SPI_Master_INST.Bit_Index_RNIOQIM[27]_LC_25, SPI_Master_INST.Bit_Index_RNIPRIM[28]_LC_27, SPI_Master_INST.Bit_Index_RNIQSIM[29]_LC_28, SPI_Master_INST.Bit_Index_RNO_0[30]_LC_30}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c_RNO_LC_96 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c_RNO}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNI2STV7[10]_LC_141 {async_fifo_inst.rd_ptr_counter_inst.count_RNI2STV7[10]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIDSVT1[10]_LC_147 {async_fifo_inst.rd_ptr_counter_inst.count_RNIDSVT1[10]}
+ble_pack async_fifo_inst.reg_fifo_empty_RNO_LC_166 {async_fifo_inst.reg_fifo_empty_RNO}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[2]_LC_182 {async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[2]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNILFGQ2[9]_LC_184 {async_fifo_inst.wr_ptr_counter_inst.count_RNILFGQ2[9]}
+clb_pack PLB_20 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_6_c_RNO_LC_96, async_fifo_inst.rd_ptr_counter_inst.count_RNI2STV7[10]_LC_141, async_fifo_inst.rd_ptr_counter_inst.count_RNIDSVT1[10]_LC_147, async_fifo_inst.reg_fifo_empty_RNO_LC_166, async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[2]_LC_182, async_fifo_inst.wr_ptr_counter_inst.count_RNILFGQ2[9]_LC_184}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNI7U361[10]_LC_173 {async_fifo_inst.wr_ptr_counter_inst.count_RNI7U361[10]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNI44I82[10]_LC_171 {async_fifo_inst.wr_ptr_counter_inst.count_RNI44I82[10]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIT5E21[10]_LC_189 {async_fifo_inst.wr_ptr_counter_inst.count_RNIT5E21[10]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNI9VTC[9]_LC_174 {async_fifo_inst.wr_ptr_counter_inst.count_RNI9VTC[9]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIUAPC[9]_LC_152 {async_fifo_inst.rd_ptr_counter_inst.count_RNIUAPC[9]}
+ble_pack async_fifo_inst.reg_fifo_full_RNO_0_LC_170 {async_fifo_inst.reg_fifo_full_RNO_0}
+ble_pack async_fifo_inst.reg_fifo_full_LC_169 {async_fifo_inst.reg_fifo_full, async_fifo_inst.reg_fifo_full_RNO}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNI45EA[9]_LC_172 {async_fifo_inst.wr_ptr_counter_inst.count_RNI45EA[9]}
+clb_pack PLB_21 {async_fifo_inst.wr_ptr_counter_inst.count_RNI7U361[10]_LC_173, async_fifo_inst.wr_ptr_counter_inst.count_RNI44I82[10]_LC_171, async_fifo_inst.wr_ptr_counter_inst.count_RNIT5E21[10]_LC_189, async_fifo_inst.wr_ptr_counter_inst.count_RNI9VTC[9]_LC_174, async_fifo_inst.rd_ptr_counter_inst.count_RNIUAPC[9]_LC_152, async_fifo_inst.reg_fifo_full_RNO_0_LC_170, async_fifo_inst.reg_fifo_full_LC_169, async_fifo_inst.wr_ptr_counter_inst.count_RNI45EA[9]_LC_172}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIC4NJ1[5]_LC_176 {async_fifo_inst.wr_ptr_counter_inst.count_RNIC4NJ1[5]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIF4DM[5]_LC_148 {async_fifo_inst.rd_ptr_counter_inst.count_RNIF4DM[5]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIH6DM[6]_LC_149 {async_fifo_inst.rd_ptr_counter_inst.count_RNIH6DM[6]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNID2DM[4]_LC_146 {async_fifo_inst.rd_ptr_counter_inst.count_RNID2DM[4]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[1]_LC_181 {async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[1]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNI7SCM[1]_LC_143 {async_fifo_inst.rd_ptr_counter_inst.count_RNI7SCM[1]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIJ8DM[7]_LC_150 {async_fifo_inst.rd_ptr_counter_inst.count_RNIJ8DM[7]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNISKNJ1[7]_LC_188 {async_fifo_inst.wr_ptr_counter_inst.count_RNISKNJ1[7]}
+clb_pack PLB_22 {async_fifo_inst.wr_ptr_counter_inst.count_RNIC4NJ1[5]_LC_176, async_fifo_inst.rd_ptr_counter_inst.count_RNIF4DM[5]_LC_148, async_fifo_inst.rd_ptr_counter_inst.count_RNIH6DM[6]_LC_149, async_fifo_inst.rd_ptr_counter_inst.count_RNID2DM[4]_LC_146, async_fifo_inst.wr_ptr_counter_inst.count_RNIKBMJ1[1]_LC_181, async_fifo_inst.rd_ptr_counter_inst.count_RNI7SCM[1]_LC_143, async_fifo_inst.rd_ptr_counter_inst.count_RNIJ8DM[7]_LC_150, async_fifo_inst.wr_ptr_counter_inst.count_RNISKNJ1[7]_LC_188}
+ble_pack SPI_Master_INST.Tx_Data[1]_LC_62 {SPI_Master_INST.Tx_Data[1], SPI_Master_INST.Tx_Data_RNO[1]}
+ble_pack SPI_Master_INST.Tx_Data[2]_LC_69 {SPI_Master_INST.Tx_Data[2], SPI_Master_INST.Tx_Data_RNO[2]}
+ble_pack SPI_Master_INST.Tx_Data[3]_LC_70 {SPI_Master_INST.Tx_Data[3], SPI_Master_INST.Tx_Data_RNO[3]}
+ble_pack SPI_Master_INST.Tx_Data[4]_LC_71 {SPI_Master_INST.Tx_Data[4], SPI_Master_INST.Tx_Data_RNO[4]}
+ble_pack SPI_Master_INST.Tx_Data[5]_LC_72 {SPI_Master_INST.Tx_Data[5], SPI_Master_INST.Tx_Data_RNO[5]}
+ble_pack SPI_Master_INST.Tx_Data[6]_LC_73 {SPI_Master_INST.Tx_Data[6], SPI_Master_INST.Tx_Data_RNO[6]}
+ble_pack SPI_Master_INST.Tx_Data[7]_LC_74 {SPI_Master_INST.Tx_Data[7], SPI_Master_INST.Tx_Data_RNO[7]}
+ble_pack SPI_Master_INST.Tx_Data[8]_LC_75 {SPI_Master_INST.Tx_Data[8], SPI_Master_INST.Tx_Data_RNO[8]}
+clb_pack PLB_23 {SPI_Master_INST.Tx_Data[1]_LC_62, SPI_Master_INST.Tx_Data[2]_LC_69, SPI_Master_INST.Tx_Data[3]_LC_70, SPI_Master_INST.Tx_Data[4]_LC_71, SPI_Master_INST.Tx_Data[5]_LC_72, SPI_Master_INST.Tx_Data[6]_LC_73, SPI_Master_INST.Tx_Data[7]_LC_74, SPI_Master_INST.Tx_Data[8]_LC_75}
+ble_pack SPI_Master_INST.Tx_Data[10]_LC_63 {SPI_Master_INST.Tx_Data[10], SPI_Master_INST.Tx_Data_RNO[10]}
+ble_pack SPI_Master_INST.Tx_Data[11]_LC_64 {SPI_Master_INST.Tx_Data[11], SPI_Master_INST.Tx_Data_RNO[11]}
+ble_pack SPI_Master_INST.Tx_Data[12]_LC_65 {SPI_Master_INST.Tx_Data[12], SPI_Master_INST.Tx_Data_RNO[12]}
+ble_pack SPI_Master_INST.Tx_Data[13]_LC_66 {SPI_Master_INST.Tx_Data[13], SPI_Master_INST.Tx_Data_RNO[13]}
+ble_pack SPI_Master_INST.Tx_Data[14]_LC_67 {SPI_Master_INST.Tx_Data[14], SPI_Master_INST.Tx_Data_RNO[14]}
+ble_pack SPI_Master_INST.Tx_Data[15]_LC_68 {SPI_Master_INST.Tx_Data[15], SPI_Master_INST.Tx_Data_RNO[15]}
+ble_pack SPI_Master_INST.o_mosi_LC_80 {SPI_Master_INST.o_mosi, SPI_Master_INST.o_mosi_RNO}
+ble_pack SPI_Master_INST.Tx_Data[9]_LC_76 {SPI_Master_INST.Tx_Data[9], SPI_Master_INST.Tx_Data_RNO[9]}
+clb_pack PLB_24 {SPI_Master_INST.Tx_Data[10]_LC_63, SPI_Master_INST.Tx_Data[11]_LC_64, SPI_Master_INST.Tx_Data[12]_LC_65, SPI_Master_INST.Tx_Data[13]_LC_66, SPI_Master_INST.Tx_Data[14]_LC_67, SPI_Master_INST.Tx_Data[15]_LC_68, SPI_Master_INST.o_mosi_LC_80, SPI_Master_INST.Tx_Data[9]_LC_76}
+ble_pack SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNO_LC_98 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNO}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[0]_LC_99 {SineDDS_INST.p_rom.lut_value_1_0_dreg[0], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[0]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[1]_LC_100 {SineDDS_INST.p_rom.lut_value_1_0_dreg[1], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[1]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[10]_LC_101 {SineDDS_INST.p_rom.lut_value_1_0_dreg[10], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[10]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[2]_LC_102 {SineDDS_INST.p_rom.lut_value_1_0_dreg[2], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[2]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[3]_LC_103 {SineDDS_INST.p_rom.lut_value_1_0_dreg[3], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[3]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[4]_LC_104 {SineDDS_INST.p_rom.lut_value_1_0_dreg[4], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[4]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[5]_LC_105 {SineDDS_INST.p_rom.lut_value_1_0_dreg[5], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[5]}
+clb_pack PLB_25 {SPI_Master_INST.un1_w_tc_counter_datalto30_i_a2_7_c_RNO_LC_98, SineDDS_INST.p_rom.lut_value_1_0_dreg[0]_LC_99, SineDDS_INST.p_rom.lut_value_1_0_dreg[1]_LC_100, SineDDS_INST.p_rom.lut_value_1_0_dreg[10]_LC_101, SineDDS_INST.p_rom.lut_value_1_0_dreg[2]_LC_102, SineDDS_INST.p_rom.lut_value_1_0_dreg[3]_LC_103, SineDDS_INST.p_rom.lut_value_1_0_dreg[4]_LC_104, SineDDS_INST.p_rom.lut_value_1_0_dreg[5]_LC_105}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[6]_LC_106 {SineDDS_INST.p_rom.lut_value_1_0_dreg[6], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[6]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[7]_LC_107 {SineDDS_INST.p_rom.lut_value_1_0_dreg[7], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[7]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[8]_LC_108 {SineDDS_INST.p_rom.lut_value_1_0_dreg[8], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[8]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_dreg[9]_LC_109 {SineDDS_INST.p_rom.lut_value_1_0_dreg[9], SineDDS_INST.p_rom.lut_value_1_0_dreg_RNO[9]}
+ble_pack dds_clk_RNIHA7M_LC_201 {dds_clk_RNIHA7M}
+ble_pack dds_clk_RNII00A_LC_202 {dds_clk_RNII00A}
+ble_pack fifo_wr_en_LC_168 {fifo_wr_en, async_fifo_inst.reg_fifo_full_RNIV97C}
+ble_pack async_fifo_inst.reg_fifo_full_RNITS3Q_LC_167 {async_fifo_inst.reg_fifo_full_RNITS3Q}
+clb_pack PLB_26 {SineDDS_INST.p_rom.lut_value_1_0_dreg[6]_LC_106, SineDDS_INST.p_rom.lut_value_1_0_dreg[7]_LC_107, SineDDS_INST.p_rom.lut_value_1_0_dreg[8]_LC_108, SineDDS_INST.p_rom.lut_value_1_0_dreg[9]_LC_109, dds_clk_RNIHA7M_LC_201, dds_clk_RNII00A_LC_202, fifo_wr_en_LC_168, async_fifo_inst.reg_fifo_full_RNITS3Q_LC_167}
+ble_pack dds_clk_counter[3]_LC_206 {dds_clk_counter[3], dds_clk_counter_RNO[3]}
+ble_pack dds_clk_counter[2]_LC_205 {dds_clk_counter[2], dds_clk_counter_RNO[2]}
+ble_pack dds_clk_counter[1]_LC_204 {dds_clk_counter[1], dds_clk_counter_RNO[1]}
+ble_pack dds_clk_counter[0]_LC_203 {dds_clk_counter[0], dds_clk_counter_RNO[0]}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_0_sr_en_LC_238 {SineDDS_INST.p_rom.lut_value_1_0_0_sr_en, dds_clk_RNII00A_SineDDS_INST.p_rom_lut_value_1_0_0_sr_en_REP_LUT4_0}
+ble_pack dds_clk_LC_237 {dds_clk, dds_clk_THRU_LUT4_0}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNI5QCM[0]_LC_142 {async_fifo_inst.rd_ptr_counter_inst.count_RNI5QCM[0]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNI9UCM[2]_LC_144 {async_fifo_inst.rd_ptr_counter_inst.count_RNI9UCM[2]}
+clb_pack PLB_27 {dds_clk_counter[3]_LC_206, dds_clk_counter[2]_LC_205, dds_clk_counter[1]_LC_204, dds_clk_counter[0]_LC_203, SineDDS_INST.p_rom.lut_value_1_0_0_sr_en_LC_238, dds_clk_LC_237, async_fifo_inst.rd_ptr_counter_inst.count_RNI5QCM[0]_LC_142, async_fifo_inst.rd_ptr_counter_inst.count_RNI9UCM[2]_LC_144}
+ble_pack SPI_Master_INST.Tx_Data[0]_LC_61 {SPI_Master_INST.Tx_Data[0], SPI_Master_INST.Tx_Data_RNO[0]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNIB0DM[3]_LC_145 {async_fifo_inst.rd_ptr_counter_inst.count_RNIB0DM[3]}
+ble_pack async_fifo_inst.rd_ptr_counter_inst.count_RNILADM[8]_LC_151 {async_fifo_inst.rd_ptr_counter_inst.count_RNILADM[8]}
+ble_pack async_fifo_inst.reg_fifo_empty_RNIEGAI_LC_164 {async_fifo_inst.reg_fifo_empty_RNIEGAI}
+ble_pack async_fifo_inst.reg_fifo_empty_RNIR0N6_LC_165 {async_fifo_inst.reg_fifo_empty_RNIR0N6}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIB1E3[0]_LC_175 {async_fifo_inst.wr_ptr_counter_inst.count_RNIB1E3[0]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNID3E3[1]_LC_177 {async_fifo_inst.wr_ptr_counter_inst.count_RNID3E3[1]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIF5E3[2]_LC_178 {async_fifo_inst.wr_ptr_counter_inst.count_RNIF5E3[2]}
+clb_pack PLB_28 {SPI_Master_INST.Tx_Data[0]_LC_61, async_fifo_inst.rd_ptr_counter_inst.count_RNIB0DM[3]_LC_145, async_fifo_inst.rd_ptr_counter_inst.count_RNILADM[8]_LC_151, async_fifo_inst.reg_fifo_empty_RNIEGAI_LC_164, async_fifo_inst.reg_fifo_empty_RNIR0N6_LC_165, async_fifo_inst.wr_ptr_counter_inst.count_RNIB1E3[0]_LC_175, async_fifo_inst.wr_ptr_counter_inst.count_RNID3E3[1]_LC_177, async_fifo_inst.wr_ptr_counter_inst.count_RNIF5E3[2]_LC_178}
+ble_pack SPI_Master_INST.sclk_fall_LC_79 {SPI_Master_INST.sclk_fall, SPI_Master_INST.clock_counter_RNIAP6D[0]}
+ble_pack SPI_Master_INST.clock_counter[0]_LC_210 {SPI_Master_INST.clock_counter[0], SPI_Master_INST.clock_counter_RNIAP6D_0_SPI_Master_INST.clock_counter_0_REP_LUT4_0}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIH7E3[3]_LC_179 {async_fifo_inst.wr_ptr_counter_inst.count_RNIH7E3[3]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIJ9E3[4]_LC_180 {async_fifo_inst.wr_ptr_counter_inst.count_RNIJ9E3[4]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNILBE3[5]_LC_183 {async_fifo_inst.wr_ptr_counter_inst.count_RNILBE3[5]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNINDE3[6]_LC_185 {async_fifo_inst.wr_ptr_counter_inst.count_RNINDE3[6]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIPFE3[7]_LC_186 {async_fifo_inst.wr_ptr_counter_inst.count_RNIPFE3[7]}
+ble_pack async_fifo_inst.wr_ptr_counter_inst.count_RNIRHE3[8]_LC_187 {async_fifo_inst.wr_ptr_counter_inst.count_RNIRHE3[8]}
+clb_pack PLB_29 {SPI_Master_INST.sclk_fall_LC_79, SPI_Master_INST.clock_counter[0]_LC_210, async_fifo_inst.wr_ptr_counter_inst.count_RNIH7E3[3]_LC_179, async_fifo_inst.wr_ptr_counter_inst.count_RNIJ9E3[4]_LC_180, async_fifo_inst.wr_ptr_counter_inst.count_RNILBE3[5]_LC_183, async_fifo_inst.wr_ptr_counter_inst.count_RNINDE3[6]_LC_185, async_fifo_inst.wr_ptr_counter_inst.count_RNIPFE3[7]_LC_186, async_fifo_inst.wr_ptr_counter_inst.count_RNIRHE3[8]_LC_187}
+ble_pack fifo_rd_en_LC_236 {fifo_rd_en, async_fifo_inst.reg_fifo_empty_RNIEGAI_fifo_rd_en_REP_LUT4_0}
+ble_pack w_reset_LC_77 {w_reset, SPI_Master_INST.Tx_Done_RNIJFJB}
+ble_pack w_reset_RNIPU49_LC_207 {w_reset_RNIPU49}
+ble_pack w_rstb_ibuf_RNIM801_LC_208 {w_rstb_ibuf_RNIM801}
+ble_pack fifo_clear_LC_264 {fifo_clear, w_rstb_ibuf_RNIM801_fifo_clear_REP_LUT4_0}
+ble_pack LC_275 {CONSTANT_ONE_LUT4}
+ble_pack LC_276 {CONSTANT_ZERO_LUT4}
+clb_pack PLB_30 {fifo_rd_en_LC_236, w_reset_LC_77, w_reset_RNIPU49_LC_207, w_rstb_ibuf_RNIM801_LC_208, fifo_clear_LC_264, LC_275, LC_276}
+ble_pack SPI_Master_INST.Tx_start_LC_209 {SPI_Master_INST.Tx_start, SPI_Master_INST.Tx_start_THRU_LUT4_0}
+clb_pack PLB_31 {SPI_Master_INST.Tx_start_LC_209}
+ble_pack SineDDS_INST.o_sine_1[0]_LC_211 {SineDDS_INST.o_sine_1[0], SineDDS_INST.o_sine_1_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[1]_LC_212 {SineDDS_INST.o_sine_1[1], SineDDS_INST.o_sine_1_1_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[10]_LC_213 {SineDDS_INST.o_sine_1[10], SineDDS_INST.o_sine_1_10_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[2]_LC_214 {SineDDS_INST.o_sine_1[2], SineDDS_INST.o_sine_1_2_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[3]_LC_215 {SineDDS_INST.o_sine_1[3], SineDDS_INST.o_sine_1_3_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[4]_LC_216 {SineDDS_INST.o_sine_1[4], SineDDS_INST.o_sine_1_4_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[5]_LC_217 {SineDDS_INST.o_sine_1[5], SineDDS_INST.o_sine_1_5_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[6]_LC_218 {SineDDS_INST.o_sine_1[6], SineDDS_INST.o_sine_1_6_THRU_LUT4_0}
+clb_pack PLB_32 {SineDDS_INST.o_sine_1[0]_LC_211, SineDDS_INST.o_sine_1[1]_LC_212, SineDDS_INST.o_sine_1[10]_LC_213, SineDDS_INST.o_sine_1[2]_LC_214, SineDDS_INST.o_sine_1[3]_LC_215, SineDDS_INST.o_sine_1[4]_LC_216, SineDDS_INST.o_sine_1[5]_LC_217, SineDDS_INST.o_sine_1[6]_LC_218}
+ble_pack SineDDS_INST.o_sine_1[7]_LC_219 {SineDDS_INST.o_sine_1[7], SineDDS_INST.o_sine_1_7_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[8]_LC_220 {SineDDS_INST.o_sine_1[8], SineDDS_INST.o_sine_1_8_THRU_LUT4_0}
+ble_pack SineDDS_INST.o_sine_1[9]_LC_221 {SineDDS_INST.o_sine_1[9], SineDDS_INST.o_sine_1_9_THRU_LUT4_0}
+ble_pack SineDDS_INST.r_fcw[10]_LC_233 {SineDDS_INST.r_fcw[10], SineDDS_INST.r_fcw_10_THRU_LUT4_0}
+clb_pack PLB_33 {SineDDS_INST.o_sine_1[7]_LC_219, SineDDS_INST.o_sine_1[8]_LC_220, SineDDS_INST.o_sine_1[9]_LC_221, SineDDS_INST.r_fcw[10]_LC_233}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[0]_LC_222 {SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_0_OLD_e_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[1]_LC_223 {SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[1], SineDDS_INST.p_rom_lut_value_1_0_0_OLD_e_1_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[0]_LC_224 {SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_1_OLD_e_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[1]_LC_225 {SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[1], SineDDS_INST.p_rom_lut_value_1_0_1_OLD_e_1_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[0]_LC_226 {SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_2_OLD_e_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[1]_LC_227 {SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[1], SineDDS_INST.p_rom_lut_value_1_0_2_OLD_e_1_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[0]_LC_228 {SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_3_OLD_e_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[1]_LC_229 {SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[1], SineDDS_INST.p_rom_lut_value_1_0_3_OLD_e_1_THRU_LUT4_0}
+clb_pack PLB_34 {SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[0]_LC_222, SineDDS_INST.p_rom.lut_value_1_0_0_OLD_e[1]_LC_223, SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[0]_LC_224, SineDDS_INST.p_rom.lut_value_1_0_1_OLD_e[1]_LC_225, SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[0]_LC_226, SineDDS_INST.p_rom.lut_value_1_0_2_OLD_e[1]_LC_227, SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[0]_LC_228, SineDDS_INST.p_rom.lut_value_1_0_3_OLD_e[1]_LC_229}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[0]_LC_230 {SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_4_OLD_e_0_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[1]_LC_231 {SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[1], SineDDS_INST.p_rom_lut_value_1_0_4_OLD_e_1_THRU_LUT4_0}
+ble_pack SineDDS_INST.p_rom.lut_value_1_0_5_OLD_e[0]_LC_232 {SineDDS_INST.p_rom.lut_value_1_0_5_OLD_e[0], SineDDS_INST.p_rom_lut_value_1_0_5_OLD_e_0_THRU_LUT4_0}
+clb_pack PLB_35 {SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[0]_LC_230, SineDDS_INST.p_rom.lut_value_1_0_4_OLD_e[1]_LC_231, SineDDS_INST.p_rom.lut_value_1_0_5_OLD_e[0]_LC_232}
+ble_pack fifo_wr_data[0]_LC_239 {fifo_wr_data[0], fifo_wr_data_0_THRU_LUT4_0}
+ble_pack fifo_wr_data[1]_LC_240 {fifo_wr_data[1], fifo_wr_data_1_THRU_LUT4_0}
+ble_pack fifo_wr_data[10]_LC_241 {fifo_wr_data[10], fifo_wr_data_10_THRU_LUT4_0}
+ble_pack fifo_wr_data[2]_LC_242 {fifo_wr_data[2], fifo_wr_data_2_THRU_LUT4_0}
+ble_pack fifo_wr_data[3]_LC_243 {fifo_wr_data[3], fifo_wr_data_3_THRU_LUT4_0}
+ble_pack fifo_wr_data[4]_LC_244 {fifo_wr_data[4], fifo_wr_data_4_THRU_LUT4_0}
+ble_pack fifo_wr_data[5]_LC_245 {fifo_wr_data[5], fifo_wr_data_5_THRU_LUT4_0}
+ble_pack fifo_wr_data[6]_LC_246 {fifo_wr_data[6], fifo_wr_data_6_THRU_LUT4_0}
+clb_pack PLB_36 {fifo_wr_data[0]_LC_239, fifo_wr_data[1]_LC_240, fifo_wr_data[10]_LC_241, fifo_wr_data[2]_LC_242, fifo_wr_data[3]_LC_243, fifo_wr_data[4]_LC_244, fifo_wr_data[5]_LC_245, fifo_wr_data[6]_LC_246}
+ble_pack fifo_wr_data[7]_LC_247 {fifo_wr_data[7], fifo_wr_data_7_THRU_LUT4_0}
+ble_pack fifo_wr_data[8]_LC_248 {fifo_wr_data[8], fifo_wr_data_8_THRU_LUT4_0}
+ble_pack fifo_wr_data[9]_LC_249 {fifo_wr_data[9], fifo_wr_data_9_THRU_LUT4_0}
+clb_pack PLB_37 {fifo_wr_data[7]_LC_247, fifo_wr_data[8]_LC_248, fifo_wr_data[9]_LC_249}
+ble_pack r_Data_to_DAC[0]_LC_250 {r_Data_to_DAC[0], r_Data_to_DAC_0_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[1]_LC_251 {r_Data_to_DAC[1], r_Data_to_DAC_1_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[10]_LC_252 {r_Data_to_DAC[10], r_Data_to_DAC_10_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[11]_LC_253 {r_Data_to_DAC[11], r_Data_to_DAC_11_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[12]_LC_254 {r_Data_to_DAC[12], r_Data_to_DAC_12_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[13]_LC_255 {r_Data_to_DAC[13], r_Data_to_DAC_13_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[2]_LC_256 {r_Data_to_DAC[2], r_Data_to_DAC_2_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[3]_LC_257 {r_Data_to_DAC[3], r_Data_to_DAC_3_THRU_LUT4_0}
+clb_pack PLB_38 {r_Data_to_DAC[0]_LC_250, r_Data_to_DAC[1]_LC_251, r_Data_to_DAC[10]_LC_252, r_Data_to_DAC[11]_LC_253, r_Data_to_DAC[12]_LC_254, r_Data_to_DAC[13]_LC_255, r_Data_to_DAC[2]_LC_256, r_Data_to_DAC[3]_LC_257}
+ble_pack r_Data_to_DAC[4]_LC_258 {r_Data_to_DAC[4], r_Data_to_DAC_4_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[5]_LC_259 {r_Data_to_DAC[5], r_Data_to_DAC_5_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[6]_LC_260 {r_Data_to_DAC[6], r_Data_to_DAC_6_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[7]_LC_261 {r_Data_to_DAC[7], r_Data_to_DAC_7_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[8]_LC_262 {r_Data_to_DAC[8], r_Data_to_DAC_8_THRU_LUT4_0}
+ble_pack r_Data_to_DAC[9]_LC_263 {r_Data_to_DAC[9], r_Data_to_DAC_9_THRU_LUT4_0}
+clb_pack PLB_39 {r_Data_to_DAC[4]_LC_258, r_Data_to_DAC[5]_LC_259, r_Data_to_DAC[6]_LC_260, r_Data_to_DAC[7]_LC_261, r_Data_to_DAC[8]_LC_262, r_Data_to_DAC[9]_LC_263}
+ble_pack async_fifo_inst.reg_fifo_empty_LC_235 {async_fifo_inst.reg_fifo_empty, async_fifo_inst.reg_fifo_empty_THRU_LUT4_0}
+clb_pack PLB_40 {async_fifo_inst.reg_fifo_empty_LC_235}

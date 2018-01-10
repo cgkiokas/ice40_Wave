@@ -1,0 +1,30 @@
+System Designer (TM) sd200912 158R.
+Copyright (C) 2007-2008, Synopsys Inc. All Rights Reserved.
+Run: Sat Aug 26 14:46:09 GMT 2017, on CHRIS-PC, by chris.
+
+INFO: Install Path: C:\lscc\iCEcube2.2016.02\synpbase\system_designer\bin
+INFO: Run Path: C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\.
+INFO: Reading Synplify project file: C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_syn.prj
+INFO: FPGA Vendor=Generic, Technology=SBTiCE40
+ERROR: Index: 1, Size: 1
+INFO: Reading Synplify project file: C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_syn.prj
+INFO: FPGA Vendor=Generic, Technology=SBTiCE40
+ERROR: Index: 1, Size: 1
+INFO: Preparing project=Functiongen directory: C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt
+WARNING: There are no instances in the design!
+INFO: Loading library: C:\Users\chris\OneDrive\HW_Projects\FuncGen
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+WARNING: Skipping! XML file with a non-standrad tag - C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\report\FunctionGen_compiler_runstatus.xml
+INFO: Done loading total components: 0
+INFO: Total bus definitions: 0
+INFO: Total abstraction definitions: 0
+INFO: Loading library: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files
+INFO: Done loading total components: 0
+INFO: Total bus definitions: 0
+INFO: Total abstraction definitions: 0

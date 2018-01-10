@@ -1,0 +1,2 @@
+set_option -top_module work.spi_master
+project -fileorder "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL\ Files/DDS_sine.vhd" "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL\ Files/FunctionGen_pll.vhd" "C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl\ files/SPI_Master.vhd" "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL\ Files/Top.vhd" 

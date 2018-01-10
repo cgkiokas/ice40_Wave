@@ -1,0 +1,226 @@
+
+
+##### START OF TIMING REPORT #####[
+# Timing Report written on Tue Aug 29 20:01:51 2017
+#
+
+
+Top view:               FunctionGen
+Requested Frequency:    9.9 MHz
+Wire load mode:         top
+Paths requested:        5
+Constraint File(s):    
+@N: MT320 |Timing report estimates place and route data. Please look at the place and route timing report for final timing.
+
+@N: MT322 |Clock constraints cover only FF-to-FF paths associated with the clock.
+
+
+
+Performance Summary
+*******************
+
+
+Worst slack in design: 1.792
+
+                                              Requested     Estimated     Requested     Estimated                 Clock                                  Clock              
+Starting Clock                                Frequency     Frequency     Period        Period        Slack       Type                                   Group              
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FunctionGen_pll|PLLOUTCOREA_derived_clock     19.9 MHz      77.1 MHz      50.308        12.975        37.333      derived (from FunctionGen|r_Clock)     Inferred_clkgroup_0
+FunctionGen_pll|PLLOUTCOREB_derived_clock     9.9 MHz       124.8 MHz     100.617       8.011         92.605      derived (from FunctionGen|r_Clock)     Inferred_clkgroup_0
+FunctionGen|dds_clk_derived_clock             9.9 MHz       132.9 MHz     100.617       7.527         NA          derived (from FunctionGen|r_Clock)     Inferred_clkgroup_0
+FunctionGen|r_Clock                           12.0 MHz      NA            83.333        NA            DCM/PLL     inferred                               Inferred_clkgroup_0
+============================================================================================================================================================================
+@N: MT582 |Estimated period and frequency not reported for given clock unless the clock has at least one timing path which is not a false or a max delay path and that does not have excessive slack
+
+
+
+Clock Relationships
+*******************
+
+Clocks                                                                                |    rise  to  rise   |    fall  to  fall   |    rise  to  fall   |    fall  to  rise 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Starting                                   Ending                                     |  constraint  slack  |  constraint  slack  |  constraint  slack  |  constraint  slack
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FunctionGen_pll|PLLOUTCOREA_derived_clock  FunctionGen_pll|PLLOUTCOREA_derived_clock  |  0.000       1.915  |  No paths    -      |  No paths    -      |  No paths    -    
+FunctionGen_pll|PLLOUTCOREB_derived_clock  FunctionGen_pll|PLLOUTCOREB_derived_clock  |  0.000       1.792  |  No paths    -      |  No paths    -      |  No paths    -    
+FunctionGen_pll|PLLOUTCOREB_derived_clock  FunctionGen|dds_clk_derived_clock          |  0.000       1.976  |  No paths    -      |  No paths    -      |  No paths    -    
+============================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+
+Interface Information 
+*********************
+
+No IO constraint found
+
+
+
+====================================
+Detailed Report for Clock: FunctionGen_pll|PLLOUTCOREA_derived_clock
+====================================
+
+
+
+Starting Points with Worst Slack
+********************************
+
+                                             Starting                                                                                        Arrival          
+Instance                                     Reference                                     Type             Pin          Net                 Time        Slack
+                                             Clock                                                                                                            
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPI_Master_INST.st_current[1]                FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFR          Q            st_current[1]       0.378       1.915
+SPI_Master_INST.st_current[0]                FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFR          Q            st_current[0]       0.378       1.959
+SPI_Master_INST.sclk_rise                    FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFR          Q            sclk_rise           0.378       1.978
+SPI_Master_INST.sclk_fall                    FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFR          Q            sclk_fall           0.378       1.983
+async_fifo_inst.tdp_ram_inst.mem_mem_0_0     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[0]     fifo_rd_data[0]     0.437       2.004
+async_fifo_inst.tdp_ram_inst.mem_mem_0_0     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[1]     fifo_rd_data[1]     0.437       2.004
+async_fifo_inst.tdp_ram_inst.mem_mem_0_1     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[0]     fifo_rd_data[2]     0.437       2.004
+async_fifo_inst.tdp_ram_inst.mem_mem_0_1     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[1]     fifo_rd_data[3]     0.437       2.004
+async_fifo_inst.tdp_ram_inst.mem_mem_0_2     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[0]     fifo_rd_data[4]     0.437       2.004
+async_fifo_inst.tdp_ram_inst.mem_mem_0_2     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_RAM2048x2     RDATA[1]     fifo_rd_data[5]     0.437       2.004
+==============================================================================================================================================================
+
+
+Ending Points with Worst Slack
+******************************
+
+                               Starting                                                                        Required          
+Instance                       Reference                                     Type         Pin     Net          Time         Slack
+                               Clock                                                                                             
+---------------------------------------------------------------------------------------------------------------------------------
+SPI_Master_INST.Tx_Data[0]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[1]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[2]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[3]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[4]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[5]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[6]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[7]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[8]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+SPI_Master_INST.Tx_Data[9]     FunctionGen_pll|PLLOUTCOREA_derived_clock     SB_DFFER     E       N_58_i_g     0.000        1.915
+=================================================================================================================================
+
+
+
+Worst Path Information
+***********************
+
+
+Path information for path number 1: 
+    Propagation time:                        1.915
+    + Clock delay at starting point:         0.000 (ideal)
+    - Requested Period:                      0.000
+    - Hold time:                             0.000
+    - Clock delay at ending point:           0.000 (ideal)
+    = Slack (non-critical) :                 1.915
+
+    Number of logic level(s):                2
+    Starting point:                          SPI_Master_INST.st_current[1] / Q
+    Ending point:                            SPI_Master_INST.Tx_Data[0] / E
+    The start point is clocked by            FunctionGen_pll|PLLOUTCOREA_derived_clock [rising] on pin C
+    The end   point is clocked by            FunctionGen_pll|PLLOUTCOREA_derived_clock [rising] on pin C
+
+Instance / Net                                        Pin                              Pin               Arrival     No. of    
+Name                                     Type         Name                             Dir     Delay     Time        Fan Out(s)
+-------------------------------------------------------------------------------------------------------------------------------
+SPI_Master_INST.st_current[1]            SB_DFFR      Q                                Out     0.378     0.378       -         
+st_current[1]                            Net          -                                -       1.119     -           6         
+SPI_Master_INST.sclk_fall_RNILU1D1       SB_LUT4      I3                               In      -         1.497       -         
+SPI_Master_INST.sclk_fall_RNILU1D1       SB_LUT4      O                                Out     0.201     1.698       -         
+N_58_i                                   Net          -                                -       0.000     -           1         
+SPI_Master_INST.sclk_fall_RNILU1D1_0     SB_GB        USER_SIGNAL_TO_GLOBAL_BUFFER     In      -         1.698       -         
+SPI_Master_INST.sclk_fall_RNILU1D1_0     SB_GB        GLOBAL_BUFFER_OUTPUT             Out     0.216     1.915       -         
+N_58_i_g                                 Net          -                                -       0.000     -           17        
+SPI_Master_INST.Tx_Data[0]               SB_DFFER     E                                In      -         1.915       -         
+===============================================================================================================================
+
+
+
+
+====================================
+Detailed Report for Clock: FunctionGen_pll|PLLOUTCOREB_derived_clock
+====================================
+
+
+
+Starting Points with Worst Slack
+********************************
+
+                                        Starting                                                                                               Arrival          
+Instance                                Reference                                     Type             Pin          Net                        Time        Slack
+                                        Clock                                                                                                                   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+dds_clk                                 FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_DFF           Q            dds_clk_i                  0.378       1.792
+dds_clk_counter[3]                      FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_DFF           Q            dds_clk_counter[3]         0.378       1.797
+fifo_wr_en                              FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_DFFE          Q            fifo_wr_en                 0.378       1.976
+SineDDS_INST.p_rom\.lut_value_1_0_0     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[0]     lut_value_1_0_0_NEW[0]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_0     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[1]     lut_value_1_0_0_NEW[1]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_1     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[0]     lut_value_1_0_1_NEW[0]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_1     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[1]     lut_value_1_0_1_NEW[1]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_2     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[0]     lut_value_1_0_2_NEW[0]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_2     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[1]     lut_value_1_0_2_NEW[1]     0.437       2.004
+SineDDS_INST.p_rom\.lut_value_1_0_3     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RDATA[0]     lut_value_1_0_3_NEW[0]     0.437       2.004
+================================================================================================================================================================
+
+
+Ending Points with Worst Slack
+******************************
+
+                                             Starting                                                                                Required          
+Instance                                     Reference                                     Type             Pin       Net            Time         Slack
+                                             Clock                                                                                                     
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+SineDDS_INST.p_rom\.lut_value_1_0_0          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+SineDDS_INST.p_rom\.lut_value_1_0_1          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+SineDDS_INST.p_rom\.lut_value_1_0_2          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+SineDDS_INST.p_rom\.lut_value_1_0_3          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+SineDDS_INST.p_rom\.lut_value_1_0_4          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+SineDDS_INST.p_rom\.lut_value_1_0_5          FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     RCLKE     N_137_g        0.187        1.792
+async_fifo_inst.tdp_ram_inst.mem_mem_0_0     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     WCLKE     fifo_wr_en     0.187        1.976
+async_fifo_inst.tdp_ram_inst.mem_mem_0_1     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     WCLKE     fifo_wr_en     0.187        1.976
+async_fifo_inst.tdp_ram_inst.mem_mem_0_2     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     WCLKE     fifo_wr_en     0.187        1.976
+async_fifo_inst.tdp_ram_inst.mem_mem_0_3     FunctionGen_pll|PLLOUTCOREB_derived_clock     SB_RAM2048x2     WCLKE     fifo_wr_en     0.187        1.976
+=======================================================================================================================================================
+
+
+
+Worst Path Information
+***********************
+
+
+Path information for path number 1: 
+    Propagation time:                        1.978
+    + Clock delay at starting point:         0.000 (ideal)
+    - Requested Period:                      0.000
+    - Hold time:                             0.187
+    - Clock delay at ending point:           0.000 (ideal)
+    = Slack (critical) :                     1.792
+
+    Number of logic level(s):                2
+    Starting point:                          dds_clk / Q
+    Ending point:                            SineDDS_INST.p_rom\.lut_value_1_0_0 / RCLKE
+    The start point is clocked by            FunctionGen_pll|PLLOUTCOREB_derived_clock [rising] on pin C
+    The end   point is clocked by            FunctionGen_pll|PLLOUTCOREB_derived_clock [rising] on pin RCLK
+
+Instance / Net                                           Pin                              Pin               Arrival     No. of    
+Name                                    Type             Name                             Dir     Delay     Time        Fan Out(s)
+----------------------------------------------------------------------------------------------------------------------------------
+dds_clk                                 SB_DFF           Q                                Out     0.378     0.378       -         
+dds_clk_i                               Net              -                                -       1.119     -           9         
+dds_clk_RNII00A                         SB_LUT4          I1                               In      -         1.497       -         
+dds_clk_RNII00A                         SB_LUT4          O                                Out     0.265     1.762       -         
+dds_clk_RNII00A                         Net              -                                -       0.000     -           2         
+dds_clk_RNII00A_0                       SB_GB            USER_SIGNAL_TO_GLOBAL_BUFFER     In      -         1.762       -         
+dds_clk_RNII00A_0                       SB_GB            GLOBAL_BUFFER_OUTPUT             Out     0.216     1.978       -         
+N_137_g                                 Net              -                                -       0.000     -           74        
+SineDDS_INST.p_rom\.lut_value_1_0_0     SB_RAM2048x2     RCLKE                            In      -         1.978       -         
+==================================================================================================================================
+
+
+
+##### END OF TIMING REPORT #####]
+
+Constraints that could not be applied
+None

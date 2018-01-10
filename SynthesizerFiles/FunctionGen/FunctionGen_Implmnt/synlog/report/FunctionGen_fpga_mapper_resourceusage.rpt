@@ -1,0 +1,36 @@
+---------------------------------------
+Resource Usage Report for FunctionGen 
+
+Mapping to part: ice40hx1ktq144
+Cell usage:
+GND             7 uses
+SB_CARRY        88 uses
+SB_DFF          9 uses
+SB_DFFE         48 uses
+SB_DFFER        81 uses
+SB_DFFES        2 uses
+SB_DFFR         35 uses
+SB_DFFS         8 uses
+SB_GB           7 uses
+SB_PLL40_2F_CORE  1 use
+SB_RAM2048x2    13 uses
+VCC             7 uses
+SB_LUT4         209 uses
+
+I/O ports: 8
+I/O primitives: 5
+SB_IO          5 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   183 (14%)
+
+RAM/ROM usage summary
+Block Rams : 13 of 16 (81%)
+
+
+@S |Mapping Summary:
+Total  LUTs: 209 (16%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 209 = 209 
+

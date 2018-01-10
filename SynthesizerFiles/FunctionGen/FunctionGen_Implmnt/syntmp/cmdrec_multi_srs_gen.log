@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\syn_nfilter.exe  -link  -top  work.FunctionGen  -incremental_debug  -multisrs  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_comp.srs  -osyn  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_mult.srs  -log  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\FunctionGen_multi_srs_gen.srr 
+rc:0 success:1 runtime:1
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_comp.srs|i|1504026104|26631
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_mult.srs|o|1504026106|6596
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\FunctionGen_multi_srs_gen.srr|o|1504026106|559
+C:\lscc\iCEcube2.2016.02\synpbase\bin\syn_nfilter.exe|i|1478734296|3110400
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\syn_nfilter.exe|i|1478734303|4182528

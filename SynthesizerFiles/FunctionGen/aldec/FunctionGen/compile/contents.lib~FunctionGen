@@ -1,0 +1,7 @@
+1
+~E 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd" 7 dds_sine
+~A 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/DDS_sine.vhd" 18 rtl
+~E 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/Top.vhd" 5 FunctionGen
+~E 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/VHDL Files/FunctionGen_pll.vhd" 4 FunctionGen_pll
+~E 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd" 6 spi_master
+~A 1 "C:/Users/chris/OneDrive/HW_Projects/FuncGen/vhdl files/SPI_Master.vhd" 26 behave

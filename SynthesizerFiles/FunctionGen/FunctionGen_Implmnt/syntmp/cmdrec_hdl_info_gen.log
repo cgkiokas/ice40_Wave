@@ -1,0 +1,10 @@
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\c_vhdl.exe  -osyn  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_hdl_.srs  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd"  -log  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\syntax.log  -fileorder  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\syntmp\hdlorder.tcl 
+rc:0 success:1 runtime:2
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_hdl_.srs|o|0|0
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd|i|1503700981|1882
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd|i|1503697886|3691
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd|i|1498478339|3896
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd|i|1503696913|3632
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\syntax.log|o|1503739387|965
+C:\lscc\iCEcube2.2016.02\synpbase\bin\c_vhdl.exe|i|1478734288|2359296
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\c_vhdl.exe|i|1478734297|3228672

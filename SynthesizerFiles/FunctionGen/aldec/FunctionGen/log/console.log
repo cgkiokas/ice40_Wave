@@ -1,0 +1,38 @@
+# Design Explorer: Shortcut to "C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\aldec\FunctionGen\FunctionGen.aws" design added.
+# Adding file C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd ... Done
+# Adding file C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd ... Done
+# Adding file C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd ... Done
+# Adding file C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd ... Done
+acom -reorder -O3 -work FunctionGen -2002  "$dsn/../../../../VHDL Files/DDS_sine.vhd" "$dsn/../../../../VHDL Files/FunctionGen_pll.vhd" "$dsn/../../../../vhdl files/SPI_Master.vhd" "$dsn/../../../../VHDL Files/Top.vhd"
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd
+# Compile Entity "dds_sine"
+# Compile Architecture "rtl" of Entity "dds_sine"
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd
+# Compile Entity "FunctionGen_pll"
+# Compile Architecture "BEHAVIOR" of Entity "FunctionGen_pll"
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd
+# Compile Entity "spi_master"
+# Compile Architecture "behave" of Entity "spi_master"
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd
+# Compile Entity "FunctionGen"
+# Compile Architecture "behave" of Entity "FunctionGen"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => FunctionGen
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd
+# Compile Architecture "BEHAVIOR" of Entity "FunctionGen_pll"
+# Warning: ELAB1_0026: ../../../../../VHDL Files/FunctionGen_pll.vhd : (55, 0): There is no default binding for component "SB_PLL40_CORE". (No entity named "SB_PLL40_CORE" was found).
+# Error: COMP96_0207: ../../../../../VHDL Files/FunctionGen_pll.vhd : (75, 11): No actual specified for local port "EXTFEEDBACK".
+# Error: COMP96_0207: ../../../../../VHDL Files/FunctionGen_pll.vhd : (76, 11): No actual specified for local port "DYNAMICDELAY".
+# Error: COMP96_0207: ../../../../../VHDL Files/FunctionGen_pll.vhd : (79, 11): No actual specified for local port "LATCHINPUTVALUE".
+# Error: COMP96_0207: ../../../../../VHDL Files/FunctionGen_pll.vhd : (81, 11): No actual specified for local port "SDI".
+# Error: COMP96_0207: ../../../../../VHDL Files/FunctionGen_pll.vhd : (83, 11): No actual specified for local port "SCLK".
+# File: C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd
+# Compile Architecture "behave" of Entity "FunctionGen"
+# Error: ELAB1_0028: ../../../../../VHDL Files/Top.vhd : (88, 0): Entity port length is 12. o_sine length is 10.
+# Error: COMP96_0367: ../../../../../VHDL Files/Top.vhd : (96, 27): Improper array length (12). Expected length is 10.
+# Error: COMP96_0367: ../../../../../VHDL Files/Top.vhd : (110, 30): Improper array length (16). Expected length is 12.
+# Compile failure 8 Errors 1 Warnings  Analysis time :  1.0 [s]

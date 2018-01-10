@@ -1,0 +1,105 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX1KTQ144 (Lattice)
+
+------------------------------------------------------------------------
+########   Utilization report for  Top level view:   dds_sine   ########
+========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     357                100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block dds_sine:	357 (14.21 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       2027               100 %                
+CARRYS     31                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block dds_sine:	2058 (81.89 % Utilization)
+
+
+MEMORY ELEMENTS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+RAMS     14                 100 %                
+=================================================
+Total MEMORY ELEMENTS in the block dds_sine:	14 (0.56 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     82                 100 %                
+=================================================
+Total IO PADS in the block dds_sine:	82 (3.26 % Utilization)
+
+#### START OF Block RAM DETAILED REPORT ####
+
+Total Block RAMs: 14
+
+p_rom.lut_value_1_00_0_13_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_12_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_11_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_10_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_9_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_8_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_7_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_6_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_5_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_4_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_3_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_2_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_1_sb_ram2048x2
+----------------------------
+----------------------------
+
+p_rom.lut_value_1_00_0_0_sb_ram2048x2
+----------------------------
+----------------------------
+
+#### END OF  Block RAM DETAILED REPORT ####
+
+
+##### END OF AREA REPORT #####]
+

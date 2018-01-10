@@ -1,0 +1,14 @@
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_comp.srs  -top  work.FunctionGen  -hdllog  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\FunctionGen_compiler.srr  -encrypt  -mp  4  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\Async_FIFO.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\grey_counter.vhd" -lib work "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd" 
+rc:0 success:1 runtime:3
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synwork\FunctionGen_comp.srs|o|1504026104|26631
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\SynthesizerFiles\FunctionGen\FunctionGen_Implmnt\synlog\FunctionGen_compiler.srr|o|1504026104|12400
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd|i|1503942826|3696
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd|i|1503947081|4438
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd|i|1503854741|5286
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd|i|1504024831|9472
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\Async_FIFO.vhd|i|1503944905|3965
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd|i|1503944866|1395
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\grey_counter.vhd|i|1503944880|1111
+C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd|i|1504021860|4710
+C:\lscc\iCEcube2.2016.02\synpbase\bin\c_hdl.exe|i|1478734287|1311232
+C:\lscc\iCEcube2.2016.02\synpbase\bin64\c_hdl.exe|i|1478734296|1936896

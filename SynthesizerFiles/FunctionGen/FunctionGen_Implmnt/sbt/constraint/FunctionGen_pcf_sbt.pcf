@@ -1,0 +1,24 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2016.02.27810
+
+# File Generated:     Aug 29 2017 18:58:24
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 8
+set_io i_mosi_in 117
+set_io i_sclk_in 118
+set_io i_ss_in 119
+set_io w_sclk 44
+set_io w_ss 45
+set_io r_Clock 21
+set_io w_mosi 47
+set_io w_rstb 48
+

@@ -1,0 +1,30 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2016.02.27810
+
+# File Generated:     May 27 2017 21:35:40
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 14
+set_io i_saw_sel 114
+set_io o_DAC_data[3] 48
+set_io o_DAC_data[7] 119
+set_io i_square_sel 115
+set_io i_trig_sel 116
+set_io o_DAC_data[0] 44
+set_io o_DAC_data[4] 56
+set_io o_DAC_data[8] 118
+set_io o_DAC_data[1] 45
+set_io o_DAC_data[5] 60
+set_io o_DAC_data[9] 117
+set_io i_DAC_clk 21
+set_io o_DAC_data[2] 47
+set_io o_DAC_data[6] 61
+

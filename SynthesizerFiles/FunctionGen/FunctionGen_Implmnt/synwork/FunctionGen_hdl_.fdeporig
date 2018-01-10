@@ -1,0 +1,42 @@
+#defaultlanguage:vhdl
+#OPTIONS:"|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work|-lib|work|-lib|work|-fileorder|C:\\Users\\chris\\OneDrive\\HW_Projects\\FuncGen\\SynthesizerFiles\\FunctionGen\\FunctionGen_Implmnt\\syntmp\\hdlorder.tcl"
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\bin64\\c_vhdl.exe":1478734297
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\location.map":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\std.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\snps_haps_pkg.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\std1164.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\numeric.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\umr_capim.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\arith.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\unsigned.vhd":1478734318
+#CUR:"C:\\lscc\\iCEcube2.2016.02\\synpbase\\lib\\vhd\\hyperents.vhd":1478734318
+#CUR:"C:\\Users\\chris\\OneDrive\\HW_Projects\\FuncGen\\VHDL Files\\Top.vhd":1503700981
+#CUR:"C:\\Users\\chris\\OneDrive\\HW_Projects\\FuncGen\\VHDL Files\\DDS_sine.vhd":1503697886
+#CUR:"C:\\Users\\chris\\OneDrive\\HW_Projects\\FuncGen\\VHDL Files\\FunctionGen_pll.vhd":1498478339
+#CUR:"C:\\Users\\chris\\OneDrive\\HW_Projects\\FuncGen\\vhdl files\\SPI_Master.vhd":1503696913
+0 "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd" vhdl
+1 "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd" vhdl
+2 "C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd" vhdl
+3 "C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd" vhdl
+
+# Dependency Lists (Uses list)
+0 2 1 
+1 -1
+2 -1
+3 -1
+
+# Dependency Lists (Users Of)
+0 -1
+1 0 
+2 0 
+3 -1
+
+# Design Unit to File Association
+arch work functiongen behave 0
+module work functiongen 0
+arch work dds_sine rtl 1
+module work dds_sine 1
+arch work functiongen_pll behavior 2
+module work functiongen_pll 2
+arch work spi_master behave 3
+module work spi_master 3

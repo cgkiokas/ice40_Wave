@@ -1,0 +1,49 @@
+@P:  Worst Slack : 37.333
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Estimated Frequency : 77.1 MHz
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Requested Frequency : 19.9 MHz
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Estimated Period : 12.975
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Requested Period : 50.308
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Slack : 37.333
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Estimated Frequency : 124.8 MHz
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Requested Frequency : 9.9 MHz
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Estimated Period : 8.011
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Requested Period : 100.617
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Slack : 92.605
+@P:  FunctionGen|dds_clk_derived_clock - Estimated Frequency : 132.9 MHz
+@P:  FunctionGen|dds_clk_derived_clock - Requested Frequency : 9.9 MHz
+@P:  FunctionGen|dds_clk_derived_clock - Estimated Period : 7.527
+@P:  FunctionGen|dds_clk_derived_clock - Requested Period : 100.617
+@P:  FunctionGen|dds_clk_derived_clock - Slack : NA
+@P:  FunctionGen|r_Clock - Estimated Frequency : NA
+@P:  FunctionGen|r_Clock - Requested Frequency : 12.0 MHz
+@P:  FunctionGen|r_Clock - Estimated Period : NA
+@P:  FunctionGen|r_Clock - Requested Period : 83.333
+@P:  FunctionGen|r_Clock - Slack : NA
+@P:  Worst Slack(min analysis) : 1.792
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Estimated Frequency(min analysis) : 77.1 MHz
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Requested Frequency(min analysis) : 19.9 MHz
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Estimated Period(min analysis) : 12.975
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Requested Period(min analysis) : 50.308
+@P:  FunctionGen_pll|PLLOUTCOREA_derived_clock - Slack(min analysis) : 37.333
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Estimated Frequency(min analysis) : 124.8 MHz
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Requested Frequency(min analysis) : 9.9 MHz
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Estimated Period(min analysis) : 8.011
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Requested Period(min analysis) : 100.617
+@P:  FunctionGen_pll|PLLOUTCOREB_derived_clock - Slack(min analysis) : 92.605
+@P:  FunctionGen|dds_clk_derived_clock - Estimated Frequency(min analysis) : 132.9 MHz
+@P:  FunctionGen|dds_clk_derived_clock - Requested Frequency(min analysis) : 9.9 MHz
+@P:  FunctionGen|dds_clk_derived_clock - Estimated Period(min analysis) : 7.527
+@P:  FunctionGen|dds_clk_derived_clock - Requested Period(min analysis) : 100.617
+@P:  FunctionGen|dds_clk_derived_clock - Slack(min analysis) : NA
+@P:  FunctionGen|r_Clock - Estimated Frequency(min analysis) : NA
+@P:  FunctionGen|r_Clock - Requested Frequency(min analysis) : 12.0 MHz
+@P:  FunctionGen|r_Clock - Estimated Period(min analysis) : NA
+@P:  FunctionGen|r_Clock - Requested Period(min analysis) : 83.333
+@P:  FunctionGen|r_Clock - Slack(min analysis) : NA
+@P: FunctionGen Part : ice40hx1ktq144
+@P: FunctionGen I/O primitives : 5
+@P: FunctionGen I/O Register bits : 0
+@P: FunctionGen Register bits (Non I/O) : 183 (14%)
+@P: FunctionGen Block Rams : 13 of 16 (81%)
+@P: FunctionGen Total Luts : 209 (16%)
+@P:  CPU Time : 0h:00m:02s

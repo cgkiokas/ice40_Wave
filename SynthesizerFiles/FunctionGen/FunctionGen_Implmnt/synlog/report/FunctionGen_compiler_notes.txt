@@ -1,0 +1,30 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2016.02\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ns
+@N:"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":5:7:5:17|Top entity is set to FunctionGen.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":5:7:5:17|Synthesizing work.functiongen.behave.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":6:7:6:16|Synthesizing work.spi_master.behave.
+@N: CD233 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":39:30:39:31|Using sequential encoding for type spi_controller_state
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":7:7:7:14|Synthesizing work.dds_sine.rtl.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\Async_FIFO.vhd":6:7:6:16|Synthesizing work.async_fifo.behave.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":5:7:5:24|Synthesizing work.true_dual_port_ram.behave.
+@N: CL134 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":30:8:30:10|Found RAM mem, depth=2048, width=16
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\grey_counter.vhd":5:7:5:18|Synthesizing work.gray_counter.behave.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":4:7:4:21|Synthesizing work.functiongen_pll.behavior.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\FunctionGen_pll.vhd":16:10:16:25|Synthesizing work.sb_pll40_2f_core.syn_black_box.
+@N: CD630 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":7:7:7:15|Synthesizing work.spi_slave.behave.
+@N: CD233 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":38:17:38:18|Using sequential encoding for type t_sm_rx
+@N: CL201 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\SPI_Slave.vhd":103:8:103:9|Trying to extract state machine for register SM_RX.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\true_dual_port_ram.vhd":19:5:19:8|Input b_rd is unused.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":68:85:68:85|Register bit lut_value(11) is always 0.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\DDS_sine.vhd":101:3:101:4|Register bit o_sine(11) is always 0.
+@N: CL201 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\vhdl files\SPI_Master.vhd":55:8:55:9|Trying to extract state machine for register st_current.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(12) is always 1.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(13) is always 1.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(14) is always 0.
+@N: CL189 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":226:4:226:5|Register bit fifo_wr_data(15) is always 0.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":18:15:18:23|Input i_sclk_in is unused.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":19:15:19:23|Input i_mosi_in is unused.
+@N: CL159 :"C:\Users\chris\OneDrive\HW_Projects\FuncGen\VHDL Files\Top.vhd":20:15:20:21|Input i_ss_in is unused.
+@N|Running in 64-bit mode
+

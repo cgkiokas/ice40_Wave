@@ -1,0 +1,31 @@
+[COMPILESTATUS|.\..\..\..\..\VHDL Files\DDS_sine.vhd]
+FileTimeLow=30613073
+Status=Compiled
+
+[COMPILESTATUS|.\..\..\..\..\VHDL Files\FunctionGen_pll.vhd]
+FileTimeLow=30600819
+Status=Error
+
+[COMPILESTATUS|.\..\..\..\..\vhdl files\SPI_Master.vhd]
+FileTimeLow=30613114
+Status=Compiled
+
+[COMPILESTATUS|.\..\..\..\..\VHDL Files\Top.vhd]
+FileTimeLow=30613154
+Status=Error
+
+[General]
+CurrentVersion=103
+
+[CACHEDOC|Aldec.Project.Generic.7|.\FunctionGen.adf|]
+Path=
+
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\..\..\..\..\VHDL Files\FunctionGen_pll.vhd|]
+CurrentLine=54
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+CurrentFontSize=-13
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAABAAAA/////////////////////8sAAAB6AAAAkAYAACsDAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAA="
+

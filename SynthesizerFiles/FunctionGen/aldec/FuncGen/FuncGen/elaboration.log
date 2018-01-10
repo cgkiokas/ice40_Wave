@@ -1,0 +1,36 @@
+Active-HDL 10.2.3312.5682  2017-06-25 16:48:13
+
+Elaboration top modules:
+Architecture                  behave(FunctionGen)
+
+
+----------------------------------------------------------------------------------------------
+Entity      | Architecture | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+FunctionGen | behave       | FuncGen |      | 10.2.3312.5682  (Windows) | -O3
+dds_sine    | rtl          | FuncGen |      | 10.2.3312.5682  (Windows) | -O3
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+VHDL Package               | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+standard                   | std     |      |                           | <unavailable>
+TEXTIO                     | std     |      | 10.2.3312.5682  (Windows) |  -2008
+std_logic_1164             | ieee    |      | 10.2.3312.5682  (Windows) |  -2008
+NUMERIC_STD                | ieee    |      | 10.2.3312.5682  (Windows) |  -2008
+MATH_REAL                  | ieee    |      | 10.2.3312.5682  (Windows) | <unavailable>
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+Library                    | Comment
+----------------------------------------------------------------------------------------------
+FuncGen                    | None
+ieee                       | Standard IEEE packages library
+std                        | Standard VHDL library
+----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 -L ovi_ice -L ice +access +r FunctionGen behave
+
+
+The performance of simulation is reduced. Version Lattice Edition

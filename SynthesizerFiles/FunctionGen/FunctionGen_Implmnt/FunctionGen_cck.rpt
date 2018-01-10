@@ -1,0 +1,72 @@
+# Synopsys Constraint Checker, version maplat, Build 1346R, built Dec  9 2015
+# Copyright (C) 1994-2015, Synopsys, Inc. This software and the associated documentation are proprietary to Synopsys, Inc. This software may only be used in accordance with the terms and conditions of a written license agreement with Synopsys, Inc.  All other use, reproduction, or distribution of this software is strictly prohibited.
+
+# Written on Tue Aug 29 20:01:48 2017
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "FunctionGen"
+Constraint File(s):      (none)
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting                                      Ending                                        |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FunctionGen_pll|PLLOUTCOREA_derived_clock     FunctionGen_pll|PLLOUTCOREA_derived_clock     |     50.308           |     No paths         |     No paths         |     No paths                         
+FunctionGen_pll|PLLOUTCOREB_derived_clock     FunctionGen_pll|PLLOUTCOREB_derived_clock     |     100.617          |     No paths         |     No paths         |     No paths                         
+FunctionGen|dds_clk_derived_clock             FunctionGen_pll|PLLOUTCOREA_derived_clock     |     50.308           |     No paths         |     No paths         |     No paths                         
+FunctionGen|dds_clk_derived_clock             FunctionGen|dds_clk_derived_clock             |     100.617          |     No paths         |     No paths         |     No paths                         
+=======================================================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:i_mosi_in
+p:i_sclk_in
+p:i_ss_in
+p:w_mosi
+p:w_rstb
+p:w_sclk
+p:w_ss
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report
